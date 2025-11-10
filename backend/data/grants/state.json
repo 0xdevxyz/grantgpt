@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bayern-isb-2024",
+    "name": "Bayern Innovativ - ISB Förderprogramme",
+    "type": "state",
+    "category": "innovation",
+    "max_funding": 500000,
+    "min_funding": 50000,
+    "min_own_contribution_percent": 25,
+    "description": "Die Investitions- und Strukturbank Bayern fördert innovative Projekte bayerischer Unternehmen in verschiedenen Technologiebereichen.",
+    "guidelines": "Gefördert werden FuE-Projekte mit Innovationscharakter und wirtschaftlichem Potenzial für den Standort Bayern.",
+    "eligibility": [
+      "KMU mit Sitz in Bayern",
+      "Innovationsprojekt",
+      "Arbeitsplätze in Bayern",
+      "Eigenkapital vorhanden"
+    ],
+    "requirements": [
+      "Projektbeschreibung",
+      "Finanzplan",
+      "Marktanalyse",
+      "Verwertungsplan"
+    ],
+    "application_process": "Online über ISB-Portal",
+    "duration_months": 24,
+    "deadline": null,
+    "is_continuous": true,
+    "historical_success_rate": 0.60,
+    "avg_funded_amount": 280000,
+    "contact_info": {
+      "organization": "LfA Förderbank Bayern",
+      "email": "info@lfa.de",
+      "phone": "+49 89 2124-0"
+    },
+    "website_url": "https://www.lfa.de"
+  }
+]
+

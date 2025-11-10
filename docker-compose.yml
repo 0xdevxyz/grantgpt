@@ -1,0 +1,165 @@
+version: '3.8'
+
+services:
+  # PostgreSQL Database
+  postgres:
+    image: postgres:15-alpine
+    container_name: grantgpt-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${DB_NAME:-grantgpt_db}
+      POSTGRES_USER: ${DB_USER:-grantgpt}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-grantgpt_password}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5439:5432"  # Konfliktfrei: Complyo nutzt 5433
+    networks:
+      - grantgpt-network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-grantgpt}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # Redis Cache & Queue
+  redis:
+    image: redis:7-alpine
+    container_name: grantgpt-redis
+    restart: unless-stopped
+    command: redis-server --requirepass ${REDIS_PASSWORD:-grantgpt_redis_password}
+    volumes:
+      - redis_data:/data
+    ports:
+      - "6386:6379"  # Konfliktfrei: Complyo nutzt 6380
+    networks:
+      - grantgpt-network
+    healthcheck:
+      test: ["CMD", "redis-cli", "--raw", "incr", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # Qdrant Vector Database
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: grantgpt-qdrant
+    restart: unless-stopped
+    volumes:
+      - qdrant_data:/qdrant/storage
+    ports:
+      - "6333:6333"
+    networks:
+      - grantgpt-network
+    environment:
+      - QDRANT__SERVICE__HTTP_PORT=6333
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:6333/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # FastAPI Backend
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: grantgpt-backend
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      - DATABASE_URL=postgresql://${DB_USER:-grantgpt}:${DB_PASSWORD:-grantgpt_password}@postgres:5432/${DB_NAME:-grantgpt_db}
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - REDIS_PASSWORD=${REDIS_PASSWORD:-grantgpt_redis_password}
+      - QDRANT_HOST=qdrant
+      - QDRANT_PORT=6333
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENROUTER_API_KEY=${OPENROUTER_API_KEY}
+      - JWT_SECRET=${JWT_SECRET}
+      - SECRET_KEY=${SECRET_KEY}
+      - ALLOWED_ORIGINS=${ALLOWED_ORIGINS:-http://localhost:3008}
+    volumes:
+      - ./backend:/app
+      - backend_storage:/app/storage
+    ports:
+      - "8008:8008"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      qdrant:
+        condition: service_started
+    networks:
+      - grantgpt-network
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8008 --reload
+
+  # Celery Worker (for background tasks)
+  celery-worker:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: grantgpt-celery-worker
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      - DATABASE_URL=postgresql://${DB_USER:-grantgpt}:${DB_PASSWORD:-grantgpt_password}@postgres:5432/${DB_NAME:-grantgpt_db}
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - REDIS_PASSWORD=${REDIS_PASSWORD:-grantgpt_redis_password}
+      - QDRANT_HOST=qdrant
+      - QDRANT_PORT=6333
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENROUTER_API_KEY=${OPENROUTER_API_KEY}
+      - JWT_SECRET=${JWT_SECRET}
+      - SECRET_KEY=${SECRET_KEY}
+    volumes:
+      - ./backend:/app
+      - backend_storage:/app/storage
+    depends_on:
+      - redis
+      - postgres
+    networks:
+      - grantgpt-network
+    command: celery -A app.celery_app worker --loglevel=info
+
+  # Next.js Frontend
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      target: development
+    container_name: grantgpt-frontend
+    restart: unless-stopped
+    environment:
+      - NEXT_PUBLIC_API_URL=${BACKEND_URL:-http://backend:8008}
+      - NEXT_PUBLIC_APP_NAME=GrantGPT
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+      - /app/.next
+    ports:
+      - "3008:3000"
+    depends_on:
+      - backend
+    networks:
+      - grantgpt-network
+    command: npm run dev
+
+networks:
+  grantgpt-network:
+    driver: bridge
+
+volumes:
+  postgres_data:
+    driver: local
+  redis_data:
+    driver: local
+  qdrant_data:
+    driver: local
+  backend_storage:
+    driver: local
+

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "horizon-europe-2024",
+    "name": "Horizon Europe - EIC Accelerator",
+    "type": "eu",
+    "category": "innovation",
+    "max_funding": 2500000,
+    "min_funding": 500000,
+    "min_own_contribution_percent": 0,
+    "description": "Der EIC Accelerator unterstützt hochinnovative Start-ups und KMU bei der Entwicklung und Skalierung bahnbrechender Innovationen.",
+    "guidelines": "Gefördert werden Unternehmen mit disruptiven Innovationen, die ein hohes Skalierungspotenzial haben und globale Herausforderungen adressieren.",
+    "eligibility": [
+      "KMU oder Start-up",
+      "Disruptive Innovation",
+      "Hohes Skalierungspotenzial",
+      "Europäischer Sitz"
+    ],
+    "requirements": [
+      "Detaillierter Businessplan",
+      "Technische Machbarkeit",
+      "Marktanalyse",
+      "Team-Qualifikation",
+      "Pitch-Präsentation"
+    ],
+    "application_process": "Mehrstufig: Short application, Full application, Interview",
+    "duration_months": 36,
+    "deadline": "2025-03-19T17:00:00Z",
+    "is_continuous": false,
+    "historical_success_rate": 0.35,
+    "avg_funded_amount": 1800000,
+    "contact_info": {
+      "organization": "European Innovation Council",
+      "email": "EIC-SME-helpdesk@ec.europa.eu"
+    },
+    "website_url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+  }
+]
+

@@ -1,0 +1,105 @@
+[
+  {
+    "id": "zim-2024-001",
+    "name": "ZIM - Zentrales Innovationsprogramm Mittelstand",
+    "type": "federal",
+    "category": "innovation",
+    "max_funding": 550000,
+    "min_funding": 50000,
+    "min_own_contribution_percent": 15,
+    "description": "Das Zentrale Innovationsprogramm Mittelstand (ZIM) fördert technologieoffene Forschungs- und Entwicklungsprojekte von kleinen und mittleren Unternehmen (KMU) sowie Kooperationsprojekte mit Forschungseinrichtungen.",
+    "guidelines": "Förderfähig sind FuE-Projekte mit hohem technischen Risiko und wirtschaftlichem Potenzial. Der Innovationsgrad muss deutlich über dem Stand der Technik liegen.",
+    "eligibility": [
+      "KMU mit weniger als 500 Mitarbeitern",
+      "Innovatives FuE-Projekt",
+      "Technisches Risiko vorhanden",
+      "Wirtschaftliches Potenzial nachweisbar"
+    ],
+    "requirements": [
+      "Detaillierte Projektbeschreibung",
+      "Finanzplan",
+      "Verwertungsplan",
+      "Nachweis der Fachkompetenz"
+    ],
+    "application_process": "Online-Antrag über easy-Online Portal. Zweistufiges Verfahren: Projektskizze, dann Vollantrag.",
+    "duration_months": 24,
+    "deadline": null,
+    "is_continuous": true,
+    "historical_success_rate": 0.65,
+    "avg_funded_amount": 420000,
+    "contact_info": {
+      "organization": "VDI/VDE Innovation + Technik GmbH",
+      "email": "zim@vdivde-it.de",
+      "phone": "+49 30 310078-0"
+    },
+    "website_url": "https://www.zim.de"
+  },
+  {
+    "id": "digital-jetzt-2024",
+    "name": "Digital Jetzt - Investitionsförderung für KMU",
+    "type": "federal",
+    "category": "digitalization",
+    "max_funding": 100000,
+    "min_funding": 17000,
+    "min_own_contribution_percent": 50,
+    "description": "Digital Jetzt unterstützt kleine und mittlere Unternehmen bei Investitionen in digitale Technologien und die Qualifizierung ihrer Beschäftigten.",
+    "guidelines": "Gefördert werden Investitionen in Hard- und Software, digitale Geschäftsprozesse sowie Qualifizierungsmaßnahmen zur Digitalisierung.",
+    "eligibility": [
+      "KMU mit 3-499 Mitarbeitern",
+      "Digitalisierungsprojekt",
+      "Investition mindestens 17.000€",
+      "Standort in Deutschland"
+    ],
+    "requirements": [
+      "Projektbeschreibung",
+      "Kostenplan",
+      "Nachweis der Unternehmensgröße"
+    ],
+    "application_process": "Online-Antrag über Förderportal des BMWK",
+    "duration_months": 12,
+    "deadline": "2025-06-30T23:59:59Z",
+    "is_continuous": false,
+    "historical_success_rate": 0.55,
+    "avg_funded_amount": 45000,
+    "contact_info": {
+      "organization": "BMWK",
+      "email": "digitaljetzt@bmwk.bund.de"
+    },
+    "website_url": "https://www.bmwk.de/digital-jetzt"
+  },
+  {
+    "id": "exist-forschungstransfer-2024",
+    "name": "EXIST-Forschungstransfer",
+    "type": "federal",
+    "category": "innovation",
+    "max_funding": 250000,
+    "min_funding": 50000,
+    "min_own_contribution_percent": 0,
+    "description": "EXIST-Forschungstransfer unterstützt technologieorientierte Unternehmensgründungen aus Hochschulen und Forschungseinrichtungen.",
+    "guidelines": "Gefördert werden Gründungsvorhaben, die auf innovativen Forschungsergebnissen basieren und ein hohes wirtschaftliches Potenzial aufweisen.",
+    "eligibility": [
+      "Gründung aus Hochschule/Forschungseinrichtung",
+      "Innovatives Forschungsergebnis",
+      "Technologieorientiert",
+      "Gründungsteam qualifiziert"
+    ],
+    "requirements": [
+      "Detaillierter Businessplan",
+      "Nachweis der wissenschaftlichen Grundlage",
+      "Finanzplan",
+      "Verwertungsplan"
+    ],
+    "application_process": "Zweistufig: Projektskizze, dann Vollantrag beim BMBF",
+    "duration_months": 18,
+    "deadline": null,
+    "is_continuous": true,
+    "historical_success_rate": 0.45,
+    "avg_funded_amount": 180000,
+    "contact_info": {
+      "organization": "Projektträger Jülich",
+      "email": "exist@fz-juelich.de"
+    },
+    "website_url": "https://www.exist.de"
+  }
+]
+
