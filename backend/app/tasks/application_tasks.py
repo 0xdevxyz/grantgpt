@@ -1,173 +1,273 @@
 """
 Background tasks for grant application generation
 """
-from typing import Dict, Any
+from typing import Dict, Any, Optional
 import asyncio
 from datetime import datetime
+from sqlalchemy.orm import Session
+import os
 
 from app.celery_app import celery_app
 from app.services.application_writer import application_writer
-from app.models.application import ApplicationStatus
+from app.models.application import Application, ApplicationStatus
+from app.models.document import Document, DocumentFormat, DocumentType
+from app.core.database import AsyncSessionLocal
+from app.services.document_generator import document_generator
 
 
-@celery_app.task(name="generate_application_content")
+@celery_app.task(name="generate_application_content", bind=True)
 def generate_application_content(
+    self,
     application_id: str,
-    project_info: Dict[str, Any],
-    grant_info: Dict[str, Any],
-    company_info: Dict[str, Any]
+    section: Optional[str] = None
 ):
     """
     Background task to generate complete application content
     
-    This task generates all sections of a grant application:
-    - Project description
-    - Market analysis
-    - Technical feasibility
-    - Work plan
-    - Financial plan
-    - Risk management
-    - Utilization plan
+    This task generates all sections of a grant application and saves to DB.
     """
     try:
-        # Update status to generating
-        _update_application_status(application_id, ApplicationStatus.GENERATING, 0)
+        # Create sync session for celery task
+        from sqlalchemy import create_engine
+        from sqlalchemy.orm import sessionmaker
+        from app.core.config import settings
         
-        # Extract grant guidelines
-        grant_guidelines = grant_info.get("guidelines", "")
+        engine = create_engine(settings.DATABASE_URL)
+        SessionLocal = sessionmaker(bind=engine)
+        db = SessionLocal()
         
-        # Generate each section
-        sections = {}
-        total_sections = 7
-        
-        # 1. Project Description (14% progress)
-        print(f"Generating project description for {application_id}")
-        sections["project_description"] = asyncio.run(
-            application_writer.generate_project_description(
-                project_info,
-                grant_guidelines
+        try:
+            # Get application from database
+            application = db.query(Application).filter(
+                Application.id == application_id
+            ).first()
+            
+            if not application:
+                raise ValueError(f"Application {application_id} not found")
+            
+            # Update status
+            application.status = ApplicationStatus.GENERATING
+            application.completion_percentage = 0
+            db.commit()
+            
+            # Prepare data for AI generation
+            project_info = {
+                "title": application.project_title,
+                "description": application.project_description,
+                "goals": application.project_goals or [],
+                "innovation": application.project_innovation or "",
+                "timeline_months": application.timeline_months,
+                "total_budget": application.total_budget,
+                "requested_funding": application.requested_funding,
+                "target_audience": application.target_audience or "",
+                "market_analysis": application.market_analysis or ""
+            }
+            
+            grant_guidelines = ""  # TODO: Fetch from grant data
+            
+            # Generate sections
+            sections = {}
+            total_sections = 7
+            
+            # 1. Project Description
+            print(f"[{application_id}] Generating project description...")
+            sections["project_description"] = asyncio.run(
+                application_writer.generate_project_description(
+                    project_info,
+                    grant_guidelines
+                )
             )
-        )
-        _update_application_status(application_id, ApplicationStatus.GENERATING, 14)
-        
-        # 2. Market Analysis (28% progress)
-        print(f"Generating market analysis for {application_id}")
-        sections["market_analysis"] = asyncio.run(
-            application_writer.generate_market_analysis(
-                project_info,
-                grant_guidelines
+            application.completion_percentage = 14
+            db.commit()
+            
+            # 2. Market Analysis
+            print(f"[{application_id}] Generating market analysis...")
+            sections["market_analysis"] = asyncio.run(
+                application_writer.generate_market_analysis(
+                    project_info,
+                    grant_guidelines
+                )
             )
-        )
-        _update_application_status(application_id, ApplicationStatus.GENERATING, 28)
-        
-        # 3. Technical Feasibility (42% progress)
-        print(f"Generating technical feasibility for {application_id}")
-        sections["technical_feasibility"] = asyncio.run(
-            application_writer.generate_technical_feasibility(
-                project_info,
-                grant_guidelines
+            application.completion_percentage = 28
+            db.commit()
+            
+            # 3. Technical Feasibility
+            print(f"[{application_id}] Generating technical feasibility...")
+            sections["technical_feasibility"] = asyncio.run(
+                application_writer.generate_technical_feasibility(
+                    project_info,
+                    grant_guidelines
+                )
             )
-        )
-        _update_application_status(application_id, ApplicationStatus.GENERATING, 42)
-        
-        # 4. Work Plan (57% progress)
-        print(f"Generating work plan for {application_id}")
-        sections["work_plan"] = asyncio.run(
-            application_writer.generate_work_plan(
-                project_info,
-                project_info.get("timeline_months", 12),
-                grant_guidelines
+            application.completion_percentage = 42
+            db.commit()
+            
+            # 4. Work Plan
+            print(f"[{application_id}] Generating work plan...")
+            sections["work_plan"] = asyncio.run(
+                application_writer.generate_work_plan(
+                    project_info,
+                    project_info["timeline_months"],
+                    grant_guidelines
+                )
             )
-        )
-        _update_application_status(application_id, ApplicationStatus.GENERATING, 57)
-        
-        # 5. Financial Plan (71% progress)
-        print(f"Generating financial plan for {application_id}")
-        budget_info = {
-            "total_budget": project_info.get("total_budget", 0),
-            "requested_funding": project_info.get("requested_funding", 0),
-            "own_contribution": project_info.get("own_contribution", 0),
-            "breakdown": project_info.get("budget_breakdown", {})
-        }
-        sections["financial_plan"] = asyncio.run(
-            application_writer.generate_financial_plan(
-                budget_info,
-                grant_guidelines
+            application.completion_percentage = 57
+            db.commit()
+            
+            # 5. Financial Plan
+            print(f"[{application_id}] Generating financial plan...")
+            budget_info = {
+                "total_budget": application.total_budget,
+                "requested_funding": application.requested_funding,
+                "own_contribution": application.own_contribution,
+                "breakdown": application.budget_breakdown or {}
+            }
+            sections["financial_plan"] = asyncio.run(
+                application_writer.generate_financial_plan(
+                    budget_info,
+                    grant_guidelines
+                )
             )
-        )
-        _update_application_status(application_id, ApplicationStatus.GENERATING, 71)
-        
-        # 6. Risk Management (85% progress)
-        print(f"Generating risk management for {application_id}")
-        sections["risk_management"] = asyncio.run(
-            application_writer.generate_risk_management(
-                project_info,
-                grant_guidelines
+            application.completion_percentage = 71
+            db.commit()
+            
+            # 6. Risk Management
+            print(f"[{application_id}] Generating risk management...")
+            sections["risk_management"] = asyncio.run(
+                application_writer.generate_risk_management(
+                    project_info,
+                    grant_guidelines
+                )
             )
-        )
-        _update_application_status(application_id, ApplicationStatus.GENERATING, 85)
-        
-        # 7. Utilization Plan (100% progress)
-        print(f"Generating utilization plan for {application_id}")
-        sections["utilization_plan"] = asyncio.run(
-            application_writer.generate_utilization_plan(
-                project_info,
-                grant_guidelines
+            application.completion_percentage = 85
+            db.commit()
+            
+            # 7. Utilization Plan
+            print(f"[{application_id}] Generating utilization plan...")
+            sections["utilization_plan"] = asyncio.run(
+                application_writer.generate_utilization_plan(
+                    project_info,
+                    grant_guidelines
+                )
             )
-        )
-        _update_application_status(application_id, ApplicationStatus.GENERATING, 100)
-        
-        # Save generated content and update status
-        _save_generated_content(application_id, sections)
-        _update_application_status(application_id, ApplicationStatus.REVIEW, 100)
-        
-        # TODO: Send notification to user
-        print(f"Application {application_id} generation completed!")
-        
-        return {
-            "application_id": application_id,
-            "status": "completed",
-            "sections_generated": len(sections)
-        }
-        
+            application.completion_percentage = 100
+            db.commit()
+            
+            # Save generated content to database
+            application.generated_content = sections
+            application.status = ApplicationStatus.READY
+            application.updated_at = datetime.utcnow()
+            
+            db.commit()
+            
+            print(f"[{application_id}] Generation completed successfully!")
+            
+            return {
+                "application_id": application_id,
+                "status": "completed",
+                "sections_generated": len(sections)
+            }
+            
+        finally:
+            db.close()
+            
     except Exception as e:
         print(f"Error generating application {application_id}: {e}")
-        _update_application_status(application_id, ApplicationStatus.DRAFT, 0)
+        # Update status to error
+        try:
+            db = SessionLocal()
+            application = db.query(Application).filter(
+                Application.id == application_id
+            ).first()
+            if application:
+                application.status = ApplicationStatus.DRAFT
+                application.completion_percentage = 0
+                db.commit()
+            db.close()
+        except:
+            pass
         raise
 
 
-def _update_application_status(
+@celery_app.task(name="generate_document_task", bind=True)
+def generate_document_task(
+    self,
     application_id: str,
-    status: ApplicationStatus,
-    completion: int
+    document_id: str,
+    format: str = "pdf"
 ):
-    """Update application status in database"""
-    # TODO: Implement database update
-    # For now, just log
-    print(f"Application {application_id}: {status.value} ({completion}%)")
-
-
-def _save_generated_content(
-    application_id: str,
-    sections: Dict[str, str]
-):
-    """Save generated content to database"""
-    # TODO: Implement database save
-    print(f"Saving {len(sections)} sections for application {application_id}")
+    """
+    Generate document export (PDF or DOCX)
+    """
+    try:
+        from sqlalchemy import create_engine
+        from sqlalchemy.orm import sessionmaker
+        from app.core.config import settings
+        
+        engine = create_engine(settings.DATABASE_URL)
+        SessionLocal = sessionmaker(bind=engine)
+        db = SessionLocal()
+        
+        try:
+            # Get application and document
+            application = db.query(Application).filter(
+                Application.id == application_id
+            ).first()
+            
+            document = db.query(Document).filter(
+                Document.id == document_id
+            ).first()
+            
+            if not application or not document:
+                raise ValueError("Application or document not found")
+            
+            # Generate document
+            print(f"[{application_id}] Generating {format.upper()} document...")
+            
+            # Ensure directory exists
+            os.makedirs(os.path.dirname(document.file_path), exist_ok=True)
+            
+            # Generate based on format
+            if format == "pdf":
+                file_path = document_generator.generate_pdf(
+                    application,
+                    document.file_path
+                )
+            elif format == "docx":
+                file_path = document_generator.generate_docx(
+                    application,
+                    document.file_path
+                )
+            else:
+                raise ValueError(f"Unsupported format: {format}")
+            
+            # Update document record
+            document.file_size = os.path.getsize(file_path)
+            db.commit()
+            
+            print(f"[{application_id}] Document generated: {file_path}")
+            
+            return {
+                "application_id": application_id,
+                "document_id": document_id,
+                "file_path": file_path,
+                "file_size": document.file_size
+            }
+            
+        finally:
+            db.close()
+            
+    except Exception as e:
+        print(f"Error generating document for {application_id}: {e}")
+        raise
 
 
 @celery_app.task(name="run_compliance_check")
 def run_compliance_check(application_id: str, grant_id: str):
     """
     Run compliance checks on generated application
-    
-    Checks:
-    - Budget plausibility
-    - Eligibility criteria
-    - Completeness
-    - Grant-specific requirements
     """
-    # TODO: Implement compliance checking
+    # TODO: Implement comprehensive compliance checking
     print(f"Running compliance check for {application_id}")
     
     return {
@@ -175,25 +275,7 @@ def run_compliance_check(application_id: str, grant_id: str):
         "compliance_score": 95,
         "checks_passed": 18,
         "checks_failed": 1,
-        "warnings": ["Innovation could be emphasized more on page 5"]
+        "warnings": ["Innovation could be emphasized more"]
     }
 
-
-@celery_app.task(name="generate_document_export")
-def generate_document_export(
-    application_id: str,
-    format: str = "pdf"
-):
-    """
-    Generate document export (PDF or DOCX)
-    """
-    # TODO: Implement document generation
-    print(f"Generating {format.upper()} for {application_id}")
-    
-    return {
-        "application_id": application_id,
-        "format": format,
-        "file_path": f"/storage/documents/{application_id}.{format}",
-        "file_size": 2450000  # bytes
-    }
 

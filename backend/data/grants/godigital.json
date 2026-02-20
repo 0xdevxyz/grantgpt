@@ -1,0 +1,221 @@
+[
+  {
+    "name": "go-digital",
+    "anbieter": "BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+    "ebene": "bund",
+    "beschreibung": "go-digital unterstützt kleine und mittlere Unternehmen (KMU) sowie Handwerksbetriebe bei der Digitalisierung durch geförderte Beratungsleistungen. Das Programm fördert 50% der Beratungskosten bis maximal 16.500 € in drei Modulen: Digitalisierte Geschäftsprozesse, Digitale Markterschließung und IT-Sicherheit. Die Beratung erfolgt durch vom BMWK autorisierte Beratungsunternehmen.",
+    "foerderhoehe_min": 0.0,
+    "foerderhoehe_max": 16500.0,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "GmbH & Co. KG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "eG",
+        "Freiberufler"
+      ],
+      "mitarbeiter_max": 100,
+      "umsatz_max": 20000000,
+      "branchen": [
+        "Handwerk",
+        "Handel",
+        "Dienstleistung",
+        "Produktion"
+      ],
+      "regionen": [
+        "bundesweit"
+      ],
+      "ausschluss": [
+        "Unternehmen der Primärproduktion landwirtschaftlicher Erzeugnisse",
+        "Unternehmen der Fischerei und Aquakultur",
+        "Unternehmensberatungen"
+      ]
+    },
+    "foerdergegenstand": [
+      "Digitalisierung",
+      "Beratung",
+      "IT-Sicherheit",
+      "E-Commerce"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html",
+    "source_url": "https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html",
+    "source": "godigital",
+    "scraped_at": "2026-02-13T17:07:09.853271",
+    "raw_html_hash": "af2cc3ba8b0794380e9fa227c29701f2bda3289cec1ce2e0f5c54c8f6375e8bf",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "go-digital - Modul: Digitalisierte Geschäftsprozesse",
+    "anbieter": "BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+    "ebene": "bund",
+    "beschreibung": "Beratung zur Einführung und Optimierung digitaler Geschäftsprozesse. Schwerpunkte: ERP-Systeme, Dokumentenmanagement, Workflow-Automatisierung, Cloud-Lösungen.",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 16500.0,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "GmbH & Co. KG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "eG",
+        "Freiberufler"
+      ],
+      "mitarbeiter_max": 100,
+      "umsatz_max": 20000000,
+      "branchen": [
+        "Handwerk",
+        "Handel",
+        "Dienstleistung",
+        "Produktion"
+      ],
+      "regionen": [
+        "bundesweit"
+      ],
+      "ausschluss": [
+        "Unternehmen der Primärproduktion landwirtschaftlicher Erzeugnisse",
+        "Unternehmen der Fischerei und Aquakultur",
+        "Unternehmensberatungen"
+      ]
+    },
+    "foerdergegenstand": [
+      "Digitalisierung",
+      "Geschäftsprozesse",
+      "ERP",
+      "Workflow"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html",
+    "source_url": "https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html",
+    "source": "godigital",
+    "scraped_at": "2026-02-13T17:07:09.853271",
+    "raw_html_hash": "25c2644b46bec8657356dd3984b7a8d6d0581c38c0498764bb274403971bf338",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "go-digital - Modul: Digitale Markterschließung",
+    "anbieter": "BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+    "ebene": "bund",
+    "beschreibung": "Beratung zur Erschließung digitaler Vertriebskanäle. Schwerpunkte: Online-Marketing, E-Commerce, Social Media Marketing, Webshop-Aufbau.",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 16500.0,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "GmbH & Co. KG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "eG",
+        "Freiberufler"
+      ],
+      "mitarbeiter_max": 100,
+      "umsatz_max": 20000000,
+      "branchen": [
+        "Handwerk",
+        "Handel",
+        "Dienstleistung",
+        "Produktion"
+      ],
+      "regionen": [
+        "bundesweit"
+      ],
+      "ausschluss": [
+        "Unternehmen der Primärproduktion landwirtschaftlicher Erzeugnisse",
+        "Unternehmen der Fischerei und Aquakultur",
+        "Unternehmensberatungen"
+      ]
+    },
+    "foerdergegenstand": [
+      "Digitalisierung",
+      "E-Commerce",
+      "Online-Marketing",
+      "Vertrieb"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html",
+    "source_url": "https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html",
+    "source": "godigital",
+    "scraped_at": "2026-02-13T17:07:09.853271",
+    "raw_html_hash": "931ec7bf1cf4a57cf2e8d8b37b6526972bf1f8adb64d1593544de5e326e5b80b",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "go-digital - Modul: IT-Sicherheit",
+    "anbieter": "BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+    "ebene": "bund",
+    "beschreibung": "Beratung zur Verbesserung der IT-Sicherheit. Schwerpunkte: Risikoanalyse, Sicherheitskonzepte, Datenschutz, Notfallmanagement, Mitarbeiterschulungen.",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 16500.0,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "GmbH & Co. KG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "eG",
+        "Freiberufler"
+      ],
+      "mitarbeiter_max": 100,
+      "umsatz_max": 20000000,
+      "branchen": [
+        "Handwerk",
+        "Handel",
+        "Dienstleistung",
+        "Produktion"
+      ],
+      "regionen": [
+        "bundesweit"
+      ],
+      "ausschluss": [
+        "Unternehmen der Primärproduktion landwirtschaftlicher Erzeugnisse",
+        "Unternehmen der Fischerei und Aquakultur",
+        "Unternehmensberatungen"
+      ]
+    },
+    "foerdergegenstand": [
+      "IT-Sicherheit",
+      "Datenschutz",
+      "Cybersecurity"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html",
+    "source_url": "https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html",
+    "source": "godigital",
+    "scraped_at": "2026-02-13T17:07:09.853271",
+    "raw_html_hash": "5ab3df469d5f3ef6f0749317f0ce0aa8b2f223b9cc4f2479ca86ebcfbedfa9ed",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  }
+]

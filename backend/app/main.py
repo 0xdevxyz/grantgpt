@@ -6,7 +6,7 @@ import logging
 
 from app.core.config import settings
 from app.core.database import engine, Base
-from app.api.v1 import auth, grants, applications, documents, users
+from app.api.v1 import auth, grants, applications, documents, users, payments
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -59,6 +59,7 @@ app.include_router(users.router, prefix="/api/v1/users", tags=["Users"])
 app.include_router(grants.router, prefix="/api/v1/grants", tags=["Grants"])
 app.include_router(applications.router, prefix="/api/v1/applications", tags=["Applications"])
 app.include_router(documents.router, prefix="/api/v1/documents", tags=["Documents"])
+app.include_router(payments.router, prefix="/api/v1/payments", tags=["Payments"])
 
 
 @app.get("/")

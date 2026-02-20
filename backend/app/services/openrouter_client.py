@@ -94,8 +94,19 @@ class OpenRouterClient:
                 )
                 response.raise_for_status()
                 data = response.json()
-                return data["data"][0]["embedding"]
                 
+                # Handle different response formats
+                if "data" in data and len(data["data"]) > 0:
+                    return data["data"][0]["embedding"]
+                elif "embedding" in data:
+                    return data["embedding"]
+                else:
+                    print(f"Unexpected embedding response format: {list(data.keys())}")
+                    raise ValueError(f"Unexpected response format from embedding API: {list(data.keys())}")
+                
+            except httpx.HTTPStatusError as e:
+                print(f"OpenRouter embedding HTTP error: {e.response.status_code} - {e.response.text}")
+                raise
             except Exception as e:
                 print(f"OpenRouter embedding error: {e}")
                 raise

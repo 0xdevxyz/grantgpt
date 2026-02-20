@@ -2,39 +2,39 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
-
-interface Application {
-  id: string;
-  project_title: string;
-  status: string;
-  completion_percentage: number;
-  created_at: string;
-  requested_funding: number;
-}
+import { useRouter } from "next/navigation";
+import { useAuth } from "@/store/auth";
+import { applicationsApi, Application } from "@/lib/api/applications";
 
 export default function DashboardPage() {
+  const router = useRouter();
+  const { user, isAuthenticated, logout } = useAuth();
   const [applications, setApplications] = useState<Application[]>([]);
   const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
+    if (!isAuthenticated) {
+      router.push('/login');
+      return;
+    }
+
     const fetchApplications = async () => {
       try {
-        const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8008";
-        
-        // For now, without auth, we'll show an empty state
-        // Later this will fetch user's applications: /api/v1/applications/
-        
-        setApplications([]);
-        setLoading(false);
-      } catch (error) {
+        setLoading(true);
+        setError(null);
+        const data = await applicationsApi.list({ limit: 50 });
+        setApplications(data);
+      } catch (error: any) {
         console.error("Error fetching applications:", error);
-        setApplications([]);
+        setError("Fehler beim Laden der Anträge");
+      } finally {
         setLoading(false);
       }
     };
 
     fetchApplications();
-  }, []);
+  }, [isAuthenticated, router]);
 
   const getStatusBadge = (status: string) => {
     const badges: Record<string, { label: string; className: string }> = {
@@ -62,13 +62,26 @@ export default function DashboardPage() {
       <header className="bg-white shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <div className="flex justify-between items-center">
-            <h1 className="text-2xl font-bold text-gray-900">GrantGPT Dashboard</h1>
-            <Link
-              href="/dashboard/new"
-              className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg font-medium transition"
-            >
-              + Neuer Antrag
-            </Link>
+            <h1 className="text-2xl font-bold text-gray-900">FörderScout AI Dashboard</h1>
+            <div className="flex items-center gap-4">
+              {user && (
+                <span className="text-sm text-gray-600">
+                  {user.company_name}
+                </span>
+              )}
+              <button
+                onClick={logout}
+                className="text-sm text-gray-600 hover:text-gray-900"
+              >
+                Abmelden
+              </button>
+              <Link
+                href="/dashboard/new"
+                className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg font-medium transition"
+              >
+                + Neuer Antrag
+              </Link>
+            </div>
           </div>
         </div>
       </header>
@@ -84,7 +97,7 @@ export default function DashboardPage() {
           <div className="bg-white p-6 rounded-lg shadow-sm">
             <h3 className="text-sm font-medium text-gray-500">In Bearbeitung</h3>
             <p className="text-3xl font-bold text-blue-600 mt-2">
-              {applications.filter((a) => a.status === "in_progress").length}
+              {applications.filter((a) => a.status === "generating" || a.status === "draft").length}
             </p>
           </div>
           <div className="bg-white p-6 rounded-lg shadow-sm">
@@ -100,6 +113,12 @@ export default function DashboardPage() {
             </p>
           </div>
         </div>
+
+        {error && (
+          <div className="mb-6 p-4 bg-red-50 border border-red-200 rounded-lg">
+            <p className="text-sm text-red-600">{error}</p>
+          </div>
+        )}
 
         {/* Applications List */}
         <div className="bg-white rounded-lg shadow-sm">
@@ -117,7 +136,7 @@ export default function DashboardPage() {
               <div className="max-w-md mx-auto">
                 <div className="text-6xl mb-4">💎</div>
                 <h3 className="text-xl font-semibold text-gray-900 mb-2">
-                  Willkommen bei GrantGPT!
+                  Willkommen bei FörderScout AI!
                 </h3>
                 <p className="text-gray-500 mb-6">
                   Noch keine Anträge vorhanden. Finden Sie jetzt passende Förderprogramme für Ihr Projekt!

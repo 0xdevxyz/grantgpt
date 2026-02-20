@@ -1,0 +1,2579 @@
+[
+  {
+    "name": "Energieberatung für Wohngebäude (EBW)",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Haus- und Wohnungseigentümer, Mieter und Pächter sowie Nießbrauchsberechtigte profitieren von attraktiveren Zuschüssen für Energieberatungen in Wohngebäuden. Damit wird es noch leichter, eine fundierte Informationsgrundlage über energetische Sanierungen von Gebäuden zu erhalten. Mit der Bundesförderung der Energieberatung für Wohngebäude (EBW) werden von Expertinnen und Experten durchgeführte Energieberatungen gefördert. Eine Energieberatung für Wohngebäude soll Eigentümer, Mieter und Pächter sowie Nießbrauchsberechtigte bei der Entscheidung unterstützen, wie die Energieeffizienz eines Wohngebäudes sinnvoll verbessert werden kann. Die Energieberatung leistet somit einen wichtigen Beitrag zur Erfüllung der Ziele des Klimaschutzes. Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 650.0,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Energieberatung/Energieberatung_Wohngebaeude/energieberatung_wohngebaeude_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/Energieberatung_Wohngebaeude/energieberatung_wohngebaeude_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "46369e6988c668268d8843136cbca2f04e82eb3ffc947d50b5d13bddaa733d18",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Energieberatung für Nichtwohngebäude (EBN)",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Energieberatung/Energieberatung_Nichtwohngebaeude/energieberatung_nichtwohngebaeude_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/Energieberatung_Nichtwohngebaeude/energieberatung_nichtwohngebaeude_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Bundesförderung für effiziente Gebäude - Sanierung Wohngebäude (BEG WG)",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Gefördert werden Einzelmaßnahmen an Bestandsgebäuden, deren Bauantrag beziehungsweise Bauanzeige zum Zeitpunkt der Antragstellung mindestens fünf Jahre zurückliegt. Zu den Wohngebäuden gehören auch Wohn-, Alten- und Pflegeheime und ähnliche Einrichtungen.Mehr: Einzelmaßnahmen an der Gebäudehülle … Gefördert wird der Einbau von Anlagentechnik in Bestandsgebäuden zur Erhöhung der Energieeffizienz des Gebäudes, wie beispielsweise einer energieeffizienten raumlufttechnischen Anlage.Mehr: Anlagentechnik (außer Heizung) … Gefördert wird die Errichtung, der Umbau oder die Erweiterung eines Gebäudenetzes, sofern die Wärmeerzeugung, mit der das Gebäudenetz gespeist wird, nach Durchführung der Maßnahme zu mindestens 65 % aus Anlagen nachBEG EMTMA Nummern 3.2 bis 3.7 und/oder unvermeidbarer Abwärme erfolgt.Mehr: Anlagen zur Wärmeerzeugung (Heizungstechnik) … Gefördert wird die Optimierung von Heizungsanlagen, die älter als zwei und bei mit fossilen Brennstoffen betriebenen Heizungsanlagen nicht älter als zwanzig Jahre sind. Ziel ist es die Energieeffizienz der Anlagen zu erhöhen, beispielsweise mit hydraulischem Abgleich oder Austausch der Heizungspumpe.NEU: Gefördert werden Maßnahmen zur Reduzierung der Staubemissionen (mindestens 80 %) von Feuerungsanlagen für feste Biomasse mit einer Nennwärmeleistung von 4 Kilowatt oder mehr, die älter als zwei Jahre sind, ausgenommen Einzelraumfeuerungsanlagen.Mehr: Heizungsoptimierung … Gefördert werden energetische Fachplanungs- und Baubegleitungsleistungen im Zusammenhang mit der Umsetzung von geförderten Maßnahmen im Sinne dieses Förderprogramms.Mehr: Fachplanung und Baubegleitung … Gefördert werden Einzelmaßnahmen an Bestandsgebäuden, deren Bauantrag beziehungsweise Bauanzeige zum Zeitpunkt der Antragstellung mindestens fünf Jahre zurückliegt. Zu den Wohngebäuden gehören auch Wohn-, Alten- und Pflegeheime und ähnliche Einrichtungen.Mehr: Einzelmaßnahmen an der Gebäudehülle … Gefördert wird der Einbau von Anlagentechnik in Bestandsgeb",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/Sanierung_Wohngebaeude/sanierung_wohngebaeude_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/Sanierung_Wohngebaeude/sanierung_wohngebaeude_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "5dc410a096795ef9394f72d6493458ff8f07cb27987c79cd66b53feaeb9f06d8",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Bundesförderung für effiziente Gebäude - Sanierung Nichtwohngebäude (BEG NWG)",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Gefördert werden Einzelmaßnahmen an Bestandsgebäuden, deren Bauantrag beziehungsweise Bauanzeige zum Zeitpunkt der Antragstellung mindestens fünf Jahre zurückliegt.Mehr: Einzelmaßnahmen an der Gebäudehülle … Gefördert wird der Einbau von Anlagentechnik in Bestandsgebäuden zur Erhöhung der Energieeffizienz des Gebäudes, wie beispielsweise einer energieeffizienten raumlufttechnischen Anlage.Mehr: Anlagentechnik (außer Heizung) … Gefördert wird die Errichtung, der Umbau oder die Erweiterung eines Gebäudenetzes, sofern die Wärmeerzeugung, mit der das Gebäudenetz gespeist wird, nach Durchführung der Maßnahme zu mindestens 65 % aus Anlagen nach BEG EM TMA Nummern 3.2 bis 3.7 und/oder unvermeidbarer Abwärme erfolgt.Mehr: Anlagen zur Wärmeerzeugung (Heizungstechnik) … Gefördert wird die Optimierung von Heizungsanlagen, die älter als zwei und bei mit fossilen Brennstoffen betriebenen Heizungsanlagen nicht älter als zwanzig Jahre sind. Ziel ist es die Energieeffizienz der Anlagen zu erhöhen, beispielsweise mit hydraulischem Abgleich oder Austausch der Heizungspumpe.NEU: Gefördert werden Maßnahmen zur Reduzierung der Staubemissionen (mindestens 80 %) von Feuerungsanlagen für feste Biomasse mit einer Nennwärmeleistung von 4 Kilowatt oder mehr, die älter als zwei Jahre sind, ausgenommen Einzelraumfeuerungsanlagen.Mehr: Heizungsoptimierung … Gefördert werden energetische Fachplanungs- und Baubegleitungsleistungen im Zusammenhang mit der Umsetzung von geförderten Maßnahmen im Sinne dieses Förderprogramms.Mehr: Fachplanung und Baubegleitung … Gefördert werden Einzelmaßnahmen an Bestandsgebäuden, deren Bauantrag beziehungsweise Bauanzeige zum Zeitpunkt der Antragstellung mindestens fünf Jahre zurückliegt.Mehr: Einzelmaßnahmen an der Gebäudehülle … Gefördert wird der Einbau von Anlagentechnik in Bestandsgebäuden zur Erhöhung der Energieeffizienz des Gebäudes, wie beispielsweise einer energieeffizienten raumlufttechnischen Anlage.Mehr: Anlagentechnik (außer Heizung) … Gefördert wird d",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/Sanierung_Nichtwohngebaeude/sanierung_nichtwohngebaeude_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/Sanierung_Nichtwohngebaeude/sanierung_nichtwohngebaeude_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "466daf4b6e99c619c218db66f51a4b7eb9addc3db82ceba65b61d8eae2f96ad7",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Heizen mit Erneuerbaren Energien",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Profitieren Sie als Privatperson, Wohnungseigentümergemeinschaft, Freiberufler, Kommune, Unternehmen und andere juristische Person von verbesserten Förderkonditionen, wenn Sie in Ihren Heizungsanlagen erneuerbare Wärme nutzen. Damit werden zentrale Entscheidungen des Klimakabinetts umgesetzt. Reichen Sie hier Ihre Unterlagen zum Verwendungsnachweis ein.Mehr: Antragsverfahren ab 01.01.2020 … Hier finden Sie die Fördervoraussetzungen und technische Mindestanforderungen (TMA) im Überblick sowie ein detailliertes „Merkblatt zu den technischen Mindestanforderungen“ der geförderten Anlagen.Mehr: Fördervoraussetzungen im Programm Heizen mit Erneuerbaren Energien … Anlagen (HardwareinklusiveSoftware) zur Visualisierung des Ertrags von Erneuerbaren Energien können vomBAFAgefördert werden,z. B.elektronische Anzeigetafeln in allgemein zugänglichen Räumen.Mehr: Visualisierung … Profitieren Sie als Privatperson, Wohnungseigentümergemeinschaft, Freiberufler, Kommune, Unternehmen und andere juristische Person von verbesserten Förderkonditionen, wenn Sie in Ihren Heizungsanlagen erneuerbare Wärme nutzen. Damit werden zentrale Entscheidungen des Klimakabinetts umgesetzt. Reichen Sie hier Ihre Unterlagen zum Verwendungsnachweis ein.Mehr: Antragsverfahren ab 01.01.2020 … Hier finden Sie die Fördervoraussetzungen und technische Mindestanforderungen (TMA) im Überblick sowie ein detailliertes „Merkblatt zu den technischen Mindestanforderungen“ der geförderten Anlagen.Mehr: Fördervoraussetzungen im Programm Heizen mit Erneuerbaren Energien … Anlagen (HardwareinklusiveSoftware) zur Visualisierung des Ertrags von Erneuerbaren Energien können vomBAFAgefördert werden,z. B.elektronische Anzeigetafeln in allgemein zugänglichen Räumen.Mehr: Visualisierung … Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Heizen_mit_Erneuerbaren_Energien/heizen_mit_erneuerbaren_energien_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Heizen_mit_Erneuerbaren_Energien/heizen_mit_erneuerbaren_energien_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "765e9ec545ec86eba8b45484bfc69ab1ceb1500b756b53ee6acc85c9b8f80572",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Förderung unternehmerischen Know-hows",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Wirtschaft_und_Mittelstand/Beratung_Finanzierung/Unternehmensberatung/unternehmensberatung_node.html",
+    "source_url": "https://www.bafa.de/DE/Wirtschaft_und_Mittelstand/Beratung_Finanzierung/Unternehmensberatung/unternehmensberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Energie",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Durch die Besondere Ausgleichsregelung kann ein stromkostenintensives Unternehmen und weitere Berechtigte auf Antrag bei Vorliegen bestimmter Voraussetzungen eine Begrenzung der Umlagen (vgl.§ 2Nr.17EnFG) erlangen.Mehr: Besondere Ausgleichsregelung … Die Bundesstelle für Energieeffizienz (BfEE)wurde innerhalb desBAFAeingerichtet und unterstützt dasBMWibei der Umsetzung der Richtlinie über Endenergieeffizienz und Energiedienstleistungen.Mehr: Bundesstelle für Energieeffizienz … Das BAFA fördert Beratungen zum Energiespar-Contracting, Energieberatungen für Nichtwohngebäude, Anlagen und Systeme, Energieberatungen bei kommunalen Gebäuden und Energieberatungen bei Wohngebäuden (Vor-Ort-Beratung).Mehr: Energieberatung … Mit der neuen „Bundesförderung für effiziente Gebäude (BEG)“ bündelt die Bundesregierung ihre bisherigen Programme zur Förderung von Energieeffizienz und Erneuerbaren Energien im Gebäudebereich in einem modernisierten, vereinfachten und optimierten Förderangebot.Mehr: Bundesförderung effiziente Gebäude … Damit die Energiewende ein Erfolg wird, müssen wir noch effizienter mit Strom und Wärme umgehen. Verschiedene Förderprogramme des BAFA reizen Investitionen in die Energieeffizienz an.Mehr: Energieeffizienz … Durch die Besondere Ausgleichsregelung kann ein stromkostenintensives Unternehmen und weitere Berechtigte auf Antrag bei Vorliegen bestimmter Voraussetzungen eine Begrenzung der Umlagen (vgl.§ 2Nr.17EnFG) erlangen.Mehr: Besondere Ausgleichsregelung … Die Bundesstelle für Energieeffizienz (BfEE)wurde innerhalb desBAFAeingerichtet und unterstützt dasBMWibei der Umsetzung der Richtlinie über Endenergieeffizienz und Energiedienstleistungen.Mehr: Bundesstelle für Energieeffizienz … Das BAFA fördert Beratungen zum Energiespar-Contracting, Energieberatungen für Nichtwohngebäude, Anlagen und Systeme, Energieberatungen bei kommunalen Gebäuden und Energieberatungen bei Wohngebäuden (Vor-Ort-Beratung).Mehr: Energieberatung … Mit der neuen „Bundesförderung für eff",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/energie_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "d3f2dfaa43180a1f8458d36a495624ff869c0afe63b2543d928c9af4674dc847",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Antragsverfahren",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Hier finden Sie alle relevanten Informationen zum Antragsverfahren. Durch die Besondere Ausgleichsregelung können stromkostenintensive Unternehmen, Schienenbahnunternehmen, Verkehrsunternehmen mit elektrisch betriebenen Bussen im Linienverkehr, Landstromanlagen für Seeschiffe und Unternehmen, die Wasserstoff elektrochemisch herstellen, nach den §§ 28ff.Energiefinanzierungsgesetz (EnFG) bei Vorliegen bestimmter Voraussetzungen einen Antrag auf Begrenzung (Reduktion) der noch verbleibenden Umlagen (KWKG-Umlage und Offshore-Netzumlage) stellen. Bitte beachten Sie, dass dieFAQund Merkblätter/Unterlagen sukzessive aktualisiert werden. Es wurden einGrundverfahrenund einerweitertes Verfahreneingeführt, wobei die Unternehmen selbst entscheiden können, für welches sie sich ab einem Stromverbrauch von mehr als 1GWhentscheiden (§ 31Nr.2 und 3EnFG). Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Besondere_Ausgleichsregelung/Antragsverfahren/antragsverfahren_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "8f16f83055694a02c19bcd7c7355588dec97c795701d4af919957587bfbef4e6",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "BesAR-Antragsportal (ELAN-K2)",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Hier erhalten Sie Informationen zum BesAR-Antragsportal (ELAN-K2). Der Antrag für die Besondere Ausgleichsregelung (BesAR) muss elektronisch über das vomBAFAeingerichteteBesAR-Antragsportal (ELAN-K2)gestellt werden (sieheEnFG, § 40Abs.4 Satz 1). Das BesAR-Antragsportal beruht auf dem Konzept der Benutzer-Selbstverwaltung und ist Teil desELAN-K2Online-Portals. Bevor Sie einen Antrag über das BesAR-Antragsportal stellen können, müssen Sie sich vorabeinmaligfür das Verfahren der BesAR registrieren. Eine bereits erfolgte Registrierung für andere Verfahren, wiez. B.Kraft-Wärme-Kopplung oder Ausfuhrkontrolle, kann für die BesAR-Antragstellung nicht verwendet werden. Bitte klären Sie vor der Registrierung für die BesAR unbedingt, ob Ihr Unternehmen bereits für die BesAR registriert ist. Sofern Ihr Unternehmen bereits für die BesAR registriert ist, ist für die Antragstellung keine erneute Registrierung erforderlich. Eine Anleitung für das BesAR-Antragsportal finden Sie unter folgendem Link:EnFG+ELAN-K22025 Technische Erläuterungen zu Registrierung und Antragsstellung 2025. Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Besondere_Ausgleichsregelung/ELAN-K2_Online-Portal/elan-k2_online-portal_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "b305e443fb9161ed63c45e042caa817993d03c4acde49ec1418e1f59db463e96",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Bundesstelle für Energieeffizienz",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Die Bundesstelle für Energieeffizienz (BfEE) wurde 2009 innerhalb des Bundesamtes für Wirtschaft und Ausfuhrkontrolle eingerichtet. Zur Internetseite derBundesstelle für Energieeffizienz. Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/BfEE/bfee_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "62642671391a7a5dbf7d8338a66983bdf8869f64d8d499c4c1bb2f4b24c94b9a",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Energiekostendämpfungsprogramm",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Das Verfahren für das Energiekostendämpfungsprogramm (EKDP) ermöglicht temporäre Zuschüsse zu gestiegenen Erdgas- und Strompreisen in besonders betroffenen Branchen. Hier können Sie die Checklisten, Mustervorlagen, Erklärungen, die Rechtsgrundlagenbzw.Publikationen finden.Mehr: Unterlagen zur Antragstellung … Hier erhalten Sie Informationen zu dem Umgang mit demOnline-PortalELAN-K2.Mehr: ELAN-K2 Online-Portal … Das Verfahren für das Energiekostendämpfungsprogramm (EKDP) ermöglicht temporäre Zuschüsse zu gestiegenen Erdgas- und Strompreisen in besonders betroffenen Branchen. Hier können Sie die Checklisten, Mustervorlagen, Erklärungen, die Rechtsgrundlagenbzw.Publikationen finden.Mehr: Unterlagen zur Antragstellung … Hier erhalten Sie Informationen zu dem Umgang mit demOnline-PortalELAN-K2.Mehr: ELAN-K2 Online-Portal … Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Energiekostendaempfungsprogramm/Energiekostendaempfungsprogramm_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "2b3f1e9a441252a0e13d52dff830be255626b76e19962dfd1a6d624b6b21a690",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Förderprogramm im Überblick",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Das Verfahren für das Energiekostendämpfungsprogramm (EKDP) ermöglicht temporäre Zuschüsse zu gestiegenen Erdgas- und Strompreisen in besonders betroffenen Branchen. Bis einschließlich 31. Oktober 2023 wurden insgesamt 206.161.895 Euro fürEKDP-Anträge in 2023 bewilligt. Von den bereitgestellten Haushaltsmitteln für 2023 in Höhe von 1.000.000.000 Euro stehen noch 793.838.105 Euro zur Verfügung. Unternehmen, die besonders von hohen Energiekosten betroffen sind, können beimBAFAeinen Zuschuss zu ihren Erdgas- und Stromkosten sowie für den Bezug von Wärme und Kälte beantragen. Der Zuschuss ist bei einer Höhe von 50 Millionen Euro je Unternehmen gedeckelt. Grundlage ist die vom Bundesministerium für Wirtschaft und Klimaschutz (BMWK) veröffentlichteRichtlinie über das Energiekostendämpfungsprogramm.Mit diesem Programm unterstützt dasBMWKdie Unternehmen, die besonders stark von hohen Energiepreisen infolge des russischen Angriffskriegs auf die Ukraine betroffen sind. Ziel ist es, besondere Härten zielgerichtet abzufedern und existenzbedrohende Situationen für diese Unternehmen zu vermeiden. Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": 0.8,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Energiekostendaempfungsprogramm/Foerderprogramm_Im_Ueberblick/Foerderprogramm_Im_Ueberblick_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "fdea30bb709b7e379158f01173067fac159f80b24ef603d2f7e3f37875fb0759",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Unterlagen zur Antragstellung",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Hier können Sie die Checklisten, Mustervorlagen, Erklärungen, die Rechtsgrundlagenbzw.Publikationen finden. Hier finden Sie die Checklisten für eine Antragstellung. Hier finden Sie alle Mustervorlage für die Antragstellung imELAN-K2Online-Portal. Hier finden Sie alle Erklärungen, die für eine erfolgreiche Antragstellung notwendig sind. Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Energiekostendaempfungsprogramm/Unterlagen_Zur_Antragstellung/Unterlagen_Zur_Antragstellung_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "f6f77254695c8f3da1e6685516dcacd3c2c5ff89c7c50fb739fa46436bdab3fc",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Energieaudit nachEDL-G",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Energieaudits und Energie- und Umweltmanagementsysteme sind Schlüsselinstrumente zur Identifizierung und Umsetzung energieeffizienzsteigernder Maßnahmen. Diese unterstützen Unternehmen, ihren Energieverbrauch und die damit verbundenen Kosten zu senken. Der wirtschaftliche Nutzen von Energieaudits sowie von Energie- und Umweltmanagementsystemen ist daher als hoch einzuschätzen. Um bei besonders energieintensiven Unternehmen, ab einem durchschnittlichen  Gesamtenergieverbrauch von mehr als 7,5GWhin den letzten drei abgeschlossenen Kalenderjahren, eine kontinuierliche Überwachung und Optimierung des Energieverbrauchs zu erreichen, wurde mit § 8EnEfGdie Verpflichtung zum Betrieb eines Energie- oder Umweltmanagementsystemen eingeführt. Daneben sind alle Nicht-KMU´s mit einem durchschnittlichen Gesamtenergieverbrauch von weniger als 7,5GWhpro Jahr gemäß § 8EDL-Gverpflichtet, turnusmäßig alle vier Jahre ein Energieaudit unter Inanspruchnahme von qualifizierten und akkreditierten Energieauditoren durchzuführen.Bei Unternehmen, die den Nicht-KMU-Status aufweisen und einen Gesamtenergieverbrauch bis 500.000KWh/a haben, gilt generell ebenfalls die Energieauditpflicht nach demEDL-G. Diese Unternehmen können jedoch zum jeweiligen Stichtag Gebrauch von der Bagatellschwellenregelung machen. In diesem Fall ist bis zum eigentlichen Fertigstellungsdatum des Energieaudits und alle vier Jahre folgend der Gesamtenergieverbrauch festzustellen und zu Übermitteln. Diese Unternehmen müssen kein detailliertes Energieaudit nach derDIN16247-1 durchführen, sondern kommen der Energieauditpflicht über die Feststellung und Meldung der Bagatellschwelle nach. Zusätzlich sind gemäß § 9EnEfGalle Unternehmen, die einen Gesamtenergieverbrauch von mehr als 2,5GWhbesitzen, dazu verpflichtet, wirtschaftliche Endenergieeinsparmaßnahmen, die im Rahmen eines Energieaudits oder durch Energie- oder Umweltmanagementsysteme identifiziert wurden, in von externen Experten überprüften Umsetzungsplänen zusammenzufass",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Energieberatung/Energieaudit/energieaudit_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "af4ff0db4ec73864b40b561bda1659db289fd4c4d580ff9cc79e772f34c43abd",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Qualifikationsprüfung Energieberatung",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "DieBAFAQualifikationsprüfung Energieberatung ermöglicht es, geförderte Energieberatungen durchzuführen, Energieausweise zu erstellen und Kunden bei verschiedenen Bundesförderprogrammen zu begleiten. Energieberatungen tragen dazu bei, die Energieeffizienz und die Klimabilanz von Gebäuden zu verbessern. Das Angebot an Energieberatungen soll weiter ausgebaut und die Anzahl fachlich qualifizierter Beraterinnen und Berater gesteigert werden. Dazu ist es wichtig, dass interessierten Personen verschiedene Wege offenstehen, um sich zum/zur Energieberater/in fortzubilden. DasBAFAhat mit der Qualifikationsprüfung Energieberatung einen Weg für Quereinsteigende ohne Grundqualifikation (nach § 88Abs.1GEG) geschaffen, sich zu Energieberaterinnen und -beratern zu qualifizieren. Die Qualifikationsprüfung richtet sich insbesondere an Berufsgruppen, die bereits praktische Erfahrung in einem Themengebiet der Energieberatung gesammelt haben.Die Qualifikationsprüfung stellt damit eine zusätzliche Zugangsmöglichkeit zur Energieffizienz-Experten-Liste dar. Diese wird über Haushaltsmittel des Bundes finanziert, die grundsätzlich nur in begrenztem Maße zur Verfügung stehen. Der zahlenmäßig größere Zugang erfolgt im Vergleich dazu über Fortbildungen für qualifizierende Berufsabschlüsse (nach § 88Abs.1GEG). Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Energieberatung/Qualifikationspruefung_Energieberatung/qualifikationspruefung_energieberatung_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "9723d472487a332c7bb4a56297b3ad2c0d4ff68648f49ab3ecbe3c8bd28154c7",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Bundesförderung für effiziente Gebäude",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Mit der Bundesförderung für effiziente Gebäude (BEG) erhalten Sie Unterstützung bei der Sanierung von Gebäuden, die dauerhaft Energiekosten einsparen und damit das Klima schützen.Mehr: Förderprogramm im Überblick … Hier finden Sie Informationen zu den förderfähigen Maßnahmen rund um die Sanierung von Wohngebäuden.Mehr: Sanierung Wohngebäude … Hier finden Sie Informationen zu den förderfähigen Maßnahmen rund um die Sanierung von Nichtwohngebäuden.Mehr: Sanierung Nichtwohngebäude … Antragsformular, BAFA-Portal (Verwendungsnachweis, Statusabfrage), Formulare, Publikationen und RechtsgrundlagenMehr: Informationen zur Antragstellung … Technische Projektbeschreibung, technischer Projektnachweis, Formulare, Rechtsgrundlagen und PublikationenMehr: Informationen für Fachunternehmen und Energieeffizienz-Experten … Mit der Bundesförderung für effiziente Gebäude (BEG) erhalten Sie Unterstützung bei der Sanierung von Gebäuden, die dauerhaft Energiekosten einsparen und damit das Klima schützen.Mehr: Förderprogramm im Überblick … Hier finden Sie Informationen zu den förderfähigen Maßnahmen rund um die Sanierung von Wohngebäuden.Mehr: Sanierung Wohngebäude … Hier finden Sie Informationen zu den förderfähigen Maßnahmen rund um die Sanierung von Nichtwohngebäuden.Mehr: Sanierung Nichtwohngebäude … Antragsformular, BAFA-Portal (Verwendungsnachweis, Statusabfrage), Formulare, Publikationen und RechtsgrundlagenMehr: Informationen zur Antragstellung … Technische Projektbeschreibung, technischer Projektnachweis, Formulare, Rechtsgrundlagen und PublikationenMehr: Informationen für Fachunternehmen und Energieeffizienz-Experten … Dieser Abschnitt bezieht sich ausschließlich auf Förderanträge, die bis einschließlich 31.12.2023 beantragt wurden.Mehr: Für Anträge bis 31.12.2023 … Das WEP dient der Listung und Veröffentlichung von potenziell förderfähigen Wärmeerzeugern in der „Bundesförderung für effiziente Gebäude - Einzelmaßnahmen (BEG EM)\".Mehr: Wärmeerzeuger-Portal (WEP) … Cookies erleichte",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/effiziente_gebaeude_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "3a910da49e96d01372a6a92299e97b013b6785394cba2eb11bbb907b9bfff6a1",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Förderprogramm im Überblick",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Mit der Bundesförderung für effiziente Gebäude (BEG) erhalten Sie Unterstützung bei der Sanierung von Gebäuden, die dauerhaft Energiekosten einsparen und damit das Klima schützen. Die Bundesförderung für effiziente Gebäude – kurzBEG– fasst frühere Förderprogramme zur Förderung von Energieeffizienz und erneuerbaren Energien im Gebäudebereich zusammen und unterstützt unter anderem den Einsatz neuer Heizungsanlagen, die Optimierung bestehender Heizungsanlagen, Maßnahmen an der Gebäudehülle und den Einsatz optimierter Anlagentechnik. Die Antragstellung im Förderprogramm (BEG EM) ist zum 1. Januar 2021 in der Zuschussvariante beimBAFAgestartet. DieBEG WGundBEG NWG(Zuschussförderung für Kommunen und Kreditvariante) sowieBEG EM(Anlagen zur Wärmeerzeugung, außer Errichtung, Umbau, Erweiterung eines Gebäudenetzes) werden durch dieKfWadministiert. Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 40000.0,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/Foerderprogramm_im_Ueberblick/foerderprogramm_im_ueberblick_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "abed96b4947dc0cf7ba00e96208fe66a013e1577fed61eeda85887667c7094f9",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Informationen zur Antragstellung",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Antragsformular, BAFA-Portal (Verwendungsnachweis, Statusabfrage), Formulare, Publikationen und Rechtsgrundlagen Mit der Bundesförderung für effiziente Gebäude (BEG) wurde die energetische Gebäudeförderung des Bundes 2021 neu aufgelegt. Die Förderung der Einzelmaßnahmen erfolgt als Projektförderung auf Ausgabenbasis in Form der Anteilfinanzierung (ein Teil der förderfähigen Ausgaben der Maßnahme wird gefördert) durch einen nicht rückzahlbaren Investitionszuschuss („Zuschussförderung“). Hinweis:DasBMWElässt dieBEGderzeit evaluieren. Mit der Evaluation wurden die PrognosAG, ifeuGmbH, FIW München und ITG Dresden beauftragt. Im Rahmen der Evaluation werden Zuwendungsempfangende stichprobenartig durch die PrognosAGper E-Mail zu einer Online-Befragung eingeladen. Um einen Antrag zu stellen, klicken Sie imBAFA-Portalauf den Button „+ NEUER ANTRAG“. Bitte achten Sie vor der Antragstellung darauf, das DokumentAllgemeines Merkblatt zur Antragstellung (Februar 2025) (PDF, 539KB, Datei ist nicht barrierefrei)aufmerksam zu lesen.Um einen Zusatzantrag für den Einkommensbonus zu stellen, klicken Sie folgenden Link (https://fms.bafa.de/BafaFrame/begzb). Bitte achten Sie vor der Antragstellung darauf, das DokumentAllgemeines Merkblatt zum Zusatzantrag für den Einkommensbonus (PDF, 474KB, Datei ist nicht barrierefrei)aufmerksam zu lesen. Das Antragsformular zurBundesförderung für effiziente Gebäudewurde mit 4,26 Sternen von 5 möglichen Sternen bewertet (Basis: 4.450 Nutzerbewertungen). Stand: 25.04.2025 Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/Informationen_fuer_Antragstellende/informationen_fuer_antragstellende_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "3a9fd884f3f4271645cfb69db3dfcfad6601e0257d55dc11f26d9b4360a65b61",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Informationen für Energieberatung",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Technische Projektbeschreibung, technischer Projektnachweis, Formulare, Rechtsgrundlagen und Publikationen Mit der neuenBEGzum 1. Januar 2024 wird die bisher analog auszufüllende Fachunternehmererklärung digitalisiert. Der Prozess sieht vor, dass Antragstellende keine technischen Daten im Antrag angeben müssen. Für die Energieeffizienz-Experten ändert sich der Prozess nicht. Für den Förderbereich „Heizungsoptimierung“ übernehmen Fachunternehmen diese Aufgabe digital. DasTPB-Formular erfasst alle relevanten Projektdaten zur geplanten Maßnahme. Zum Einloggen in das digitaleTPB-Formular werden die Zugangsdaten der Expertenliste benötigt. Auch Fachunternehmen müssen sich analog zu den Energieeffizienz-Experten bei derdenaregistrieren. Alle weiteren Informationen zur Registrierung für Fachunternehmen finden Siehier. Sie erhalten dann ebenfalls Logindaten, mit denen sie eine technische Projektbeschreibung (TPB) erstellen können. Das FormularTechnische Projektbeschreibungwurde mit 4,32 Sternen von 5 möglichen Sternen bewertet (Basis: 2.877 Nutzerbewertungen). Stand: 25.04.2025 Das digitale TPN-Formular erfasst alle relevanten Projektdaten nach Umsetzung der beantragten Maßnahme. Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/Informationen_fuer_Energieberater/informationen_fuer_energieberater_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "d89728c571a556ab67cd073293c3c07148364ef28e49d0ab2345be39067a79c4",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Energieeffizienz",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Über die Richtlinie für die Bundesförderung von E-Lastenfahrrädern für den fahrradgebundenen Lastenverkehr (E-Lastenfahrrad-Richtlinie) fördert dasBAFAdie Anschaffung (den Kauf) von E-Lastenfahrrädern und E-Lastenanhängern. Wir empfehlen Ihnen vor Antragstellung die folgenden Ausführungen und insbesondere unser Merkblatt zur E-Lastenfahrrad-Richtlinie aufmerksam zu lesen und zu beachten.Mehr: E-Lastenfahrräder … Mit der Bundesförderung für Energieeffizienz in der Wirtschaft fördert das BAFA Unternehmen, die in hocheffizienzte Technologien sowie erneuerbare Energien investieren und damit nachhaltig für sparsame und rationelle Energieverwendung in ihrem Betrieb sorgen.Mehr: Energie- und Ressourceneffizienz in der Wirtschaft … Seit Januar 2016 sind Heizungsinstallateure, Schornsteinfeger sowie bestimmte Energieberater zur Ausstellung von Effizienzlabelnfür Heizungsaltanlagen berechtigt. Seit Januar 2017 ist es Pflicht der bevollmächtigten Bezirksschornsteinfeger, dieLabelanzubringen (verpflichtete Akteure). Sie erhalten dafür eine Aufwandsentschädigung.Mehr: Heizungslabel … Gefördert wird der Einsatz von Klimaschutz-Technologien in der Kälte- und Klimatechnik in gewerblichen Anwendungen. Ziel ist die Reduktion von Emissionen fluorierter Treibhausgase.Mehr: Kälte- und Klimaanlagen … KWK-Anlagen erzeugen Strom und Wärme in einem Prozess. Sie sind somit eineCO2-arme Kraftwerkstechnologie. Die Förderung derKWK-Technologie ist umlagefinanziert und leistet einen Beitrag, den Anteil der Stromerzeugung ausKWKzu erhöhen.Mehr: Kraft-Wärme-Kopplung … Über die Richtlinie für die Bundesförderung von E-Lastenfahrrädern für den fahrradgebundenen Lastenverkehr (E-Lastenfahrrad-Richtlinie) fördert dasBAFAdie Anschaffung (den Kauf) von E-Lastenfahrrädern und E-Lastenanhängern. Wir empfehlen Ihnen vor Antragstellung die folgenden Ausführungen und insbesondere unser Merkblatt zur E-Lastenfahrrad-Richtlinie aufmerksam zu lesen und zu beachten.Mehr: E-Lastenfahrräder … Mit der Bundesförderu",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Energieeffizienz/energieeffizienz_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "35441bb65d898db03a73e57aa71b4a5d34e08de48be588ebe16ae5f46628bd4a",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Energie- und Ressourceneffizienz in der Wirtschaft",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Zum 15.09.2025 wurde die vom BAFA administrierte Zuschussvariante der Bundesförderung für Energie- und Ressourceneffizienz in der Wirtschaft (EEW) als erstes Förderprogramm auf die Plattform Förderzentrale Deutschland  (FZD) aufgenommen.  Für Unternehmen ergeben sich daraus verschiedene Vorteile. Über Modul 1 werden der Erwerb und die Installation von hocheffizienten elektrischen Motoren, Pumpen, Ventilatoren und Drucklufterzeugern gefördert. Anlagenbzw.Komponenten, für die eine Förderung beantragt wird, müssen im Unternehmen vorhandene Bestandsanlage/ Bestandskomponente ersetzen. Gefördert werden außerdem Wärmedämmmaßnahmen an Bestandsanlagen, Frequenzumrichter zur Nachrüstung von bereits im Unternehmen vorhandenen Elektromotoren, Antrieben und Pumpen sowie Wärmeübertrager zur Erschließung der Abwärme von Bestandsanlagen. Antragsberechtigt sind ausschließlich kleine und mittelständische Unternehmen (KMU).Mehr: Modul 1: Querschnittstechnologien … Über Modul 2 werden der Erwerb und die Installation folgender Anlagen zur Erzeugung von Wärme aus erneuerbaren Energien gefördert: Solarkollektoranlagen, Wärmepumpen, Geothermie-Anlagen, Anlagen zur Biomassefeuerung. Die mit den geförderten Anlagen bereitgestellte Wärme muss zu über 50 Prozent für Prozesse,d. h.zur Herstellung, Weiterverarbeitung oder Veredelung von Produkten oder zur Erbringung von Dienstleistungen verwendet werden.Mehr: Modul 2: Prozesswärme aus Erneuerbaren Energien … Gefördert werden im Rahmen von Modul 3 Soft- und Hardware im Zusammenhang mit der Einrichtung oder Anwendung eines Energie- oder Umweltmanagementsystems.Mehr: Modul 3: MSR, Sensorik und Energiemanagement-Software … Zum 15.09.2025 wurde die vom BAFA administrierte Zuschussvariante der Bundesförderung für Energie- und Ressourceneffizienz in der Wirtschaft (EEW) als erstes Förderprogramm auf die Plattform Förderzentrale Deutschland  (FZD) aufgenommen.  Für Unternehmen ergeben sich daraus verschiedene Vorteile. Über Modul 1 werden der Erwerb un",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Energieeffizienz/Energieeffizienz_und_Prozesswaerme/energieeffizienz_und_prozesswaerme_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "36ea09c5468070603082d87fe5a97bb00fb18e0897c11e995dc1ab2c7ef6ab46",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Pilotprogramm Einsparzähler (bis 30.06.2021)",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Die Bundesförderung für das Pilotprogramm Einsparzähler wurde zum 1. Juli 2021 eingestellt (Änderung der Förderbekanntmachung „Pilotprogramme Einsparzähler“ vom 12. Mai 2021 (Fundstelle:BAnzAT14.06.2021 B1)). Eine Antragstellung war nur noch bis zum 30. Juni 2021 möglich. Förderanträge, die vor dem 1. Juli 2021 beim BAFA eingegangen sind, werden nach den Vorschriften der letztgültigen Fassung der geänderten Richtlinie entschieden. Erteilte Förderbescheide haben Bestand. Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Energieeffizienz/Einsparzaehler/einsparzaehler_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "29ab19f7f9f382a653c73ae5a296676bf2dcd480bdaab6ab24d83deeff55e5fb",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Elektromobilität (bis 18.12.2023)",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Der Umweltbonus wurde zum 18. Dezember 2023 beendet.Mehr: Informationen … Der Umweltbonus wurde zum 18. Dezember 2023 beendet.Mehr: Informationen … Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Energieeffizienz/Elektromobilitaet/elektromobilitaet_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "d49e637cb8eff53049a4756353836bfa806b08bff93e085a446c7b497d981a2e",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Förderprogramm im Überblick",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Profitieren Sie als Privatperson, Wohnungseigentümergemeinschaft, Freiberufler, Kommune, Unternehmen und andere juristische Person von verbesserten Förderkonditionen, wenn Sie in Ihren Heizungsanlagen erneuerbare Wärme nutzen. Damit werden zentrale Entscheidungen des Klimakabinetts umgesetzt. Grundlage ist das in wesentlichen Punkten angepasste Marktanreizprogramm zur Förderung von Anlagen zur Nutzung erneuerbarer Energien im Wärmemarkt. Die geänderte Richtlinie ist am 01.01.2020 in Kraft getreten. Seit dem 02.01.2020 können Anträge über das elektronische Antragsformular beimBAFAgestellt werden. Für vorher beantragte Maßnahmen oder bereits bewilligte Anträge gelten die Bestimmungen der Förderrichtlinie vom 11.03.2015. Die Höhe der Förderung wird als prozentualer Anteil der tatsächlich für den Austauschbzw.die Erweiterung der Heizungsanlage entstandenen förderfähigen Kosten berechnet. Dabei werden auch die Kosten für notwendige Umfeldmaßnahmen zur Installation der neuen Anlage berücksichtigt. Antragsteller, die nicht vorsteuerabzugsberechtigt sind, können die Kosten außerdem einschließlich der Umsatzsteuer ansetzen. InNeubautenwerden Solarkollektoranlagen mit 30% der förderfähigen Kosten und Biomasse- sowie Wärmepumpenanlagen mit 35% der förderfähigen Kosten gefördert, sofern sie die entsprechenden technischen Mindestanforderungen erfüllen. Inbestehenden Gebäuden,d. h.solchen, in denen zum Zeitpunkt der Antragstellung bereits seit mehr als 2 Jahren ein Heizungs-bzw.Kühlsystem in Betrieb genommen war, das ersetzt oder unterstützt werden soll, werden gefördert: Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": 0.3,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Heizen_mit_Erneuerbaren_Energien/Foerderprogramm_im_Ueberblick/foerderprogramm_im_ueberblick_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "6a08a9a5f94682ceb9186306ba55dd17a4ff1f348a6690b5ebfaba708b993a3e",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Antragsverfahren ab 01.01.2020",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Reichen Sie hier Ihre Unterlagen zum Verwendungsnachweis ein. Sobald Sie einen Zuwendungsbescheid erhalten und die Maßnahme abgeschlossen haben, können Sie dasOnline-Verwendungsnachweisformularausfüllen und die erforderlichen Unterlagen hochladen.Bitte halten Sie die unter »Nachweise für Anträge ab 01.01.2020« genannten Dokumente für den Verwendungsnachweis bereit. Nutzen Sie bitte für den vorgangsbezogenen Schriftwechselnach der AntragstellungdenUpload-Bereich. Dort ist für Anträge, die nach dem 1. Januar 2020 gestellt wurden, der Themenbereich Erneuerbare Energien im Wärmebereich (ab 01.01.2020) auszuwählen. Die Antragstellung kann auch von Bekannten, vom Fachunternehmer oder anderen Bevollmächtigten durchgeführt werden. Dazu muss mit dem Antrag eine ausgefüllteVollmachthochgeladen werden. Eine detaillierte Checkliste zur Antragstellung finden Siehier. Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Heizen_mit_Erneuerbaren_Energien/Antragsverfahren/antragsverfahren_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "944620db7300efd74ad269466014cef2ab94250a4460b3b1599a28cd37846ff9",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Fördervoraussetzungen",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Hier finden Sie die Fördervoraussetzungen und technische Mindestanforderungen (TMA) im Überblick sowie ein detailliertes „Merkblatt zu den technischen Mindestanforderungen“ der geförderten Anlagen. Nicht antragsberechtigt sind der Bund, die Bundesländer und deren Einrichtungen, sowie Hersteller von förderfähigen Anlagen. Die Antragstellung über das elektronische Antragsformular muss vor Beginn der Maßnahme erfolgen. Als Vorhabenbeginn gilt der Abschluss eines der Ausführung zuzurechnenden Lieferungs- oder Leistungsvertrages. Planungsleistungen dürfen vor Antragstellung erbracht werden. Maßgeblich ist das Eingangsdatum des Antrages beimBAFA. Die Erstellung eines Gasanschlusses sowie die Erschließungen der Wärmequelle einer Wärmepumpenanlage (bei Erdsondenbohrungen einschließlich Abschluss verschuldensunabhängige Versicherung) dürfen zwar vor dem oben definierten Vorhabensbeginn durchgeführt werden, ohne die Förderfähigkeit der Gesamtmaßnahme zu beeinträchtigen. Jedoch sind die Kosten für diese vorbereitenden Maßnahmen in diesem Fall nicht förderfähig. Die Antragstellung über das elektronische Antragsformular kann auch von Bekannten, vom Fachunternehmer oder anderen Bevollmächtigten durchgeführt werden. Dazu ist das Hochladen der ausgefülltenVollmachterforderlich. Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": 0.25,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Heizen_mit_Erneuerbaren_Energien/Foerdervoraussetzungen/foerdervoraussetzungen_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "0553bd1175b4210b7fe991ec5636de03d483dfc0a79389e300db6ca31b0882c2",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Antragsarten",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "DasBAFAbietet für verschiedene Verbringungs-/Ausfuhrvorhaben verschiedene Antragsverfahren an: Neben Einzelausfuhrgenehmigungen (EAG), die sich in der Regel auf ein konkretes Ausfuhrvorhaben beziehen, besteht grundsätzlich die Möglichkeit der Verwendung von Allgemeinen Genehmigungen (AGG) sowie Sammelgenehmigungen (SAG). Diese Verfahrenserleichterungen ermöglichen in der Regel mehr als nur einen Export und sind zeitlich flexibel anwendbar. Ergibt sich bei der Überprüfung des Antrags, dass für das Vorhaben tatsächlich keine Genehmigungspflicht besteht, erteilt dasBAFAeinen sogenannten „Nullbescheid“. Der Nullbescheid trifft nur eine Aussage über das konkret beantragte Geschäft und ist nicht übertragbar. Darüber hinaus, gibt es die Möglichkeit im Rahmen einer Voranfrage rechtsverbindlich zu klären, ob ein in Aussicht stehendes, aber derzeit noch nicht konkretisiertes Ausfuhrvorhaben, eine Genehmigung erteilt werden könnte. Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Antragsarten/antragsarten_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "c21a338ffa867d17b5516db7f6fb8217c3c8bbea66197f4dfb62a0fc0adc83b3",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Antragstellung",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Bei Exportvorhaben muss in der Regel gegenüber demBAFAein Ausfuhrverant-wortlicher benannt werden. Er ist für die Einhaltung der Exportkontrollvorschriften verantwortlich und muss Mitglied des Vorstands oder der Geschäftsführung sein.Mehr: Ausfuhrverantwortlicher … Mit demELAN-K2-System bietet dasBAFAeinen elektronischen Zugang zu fast allen im Ausfuhrbereich benötigten Anträgen. Um das System nutzen zu können, muss man sich einmalig registrieren.Mehr: ELAN-K2 Ausfuhr … Für die genehmigungspflichtige Ausfuhr oder Verbringung von gelisteten Gütern ist mit der Antragstellung grundsätzlich ein Endverbleibsdokument vorzulegen.Mehr: Endverbleibsdokumente … DieEORI-Nummer wird für alle im Bereich Ausfuhrkontrolle verwendeten Formulare und für die Registrierung im elektronischen AntragssystemELAN-K2benötigt.Mehr: EORI-Nummer … Am 16. September 2023 ist die Besondere Gebührenverordnung desBMWKundBAFAfür Kriegswaffenkontrolle, Ausfuhrkontrolle und Investitionsprüfung (GebV) in Kraft getreten. Damit sind für gebührenfähige Leistungen, die ab dem 1. Januar 2024 beantragt werden, Gebühren zu erheben.Mehr: Gebühren … Bei Exportvorhaben muss in der Regel gegenüber demBAFAein Ausfuhrverant-wortlicher benannt werden. Er ist für die Einhaltung der Exportkontrollvorschriften verantwortlich und muss Mitglied des Vorstands oder der Geschäftsführung sein.Mehr: Ausfuhrverantwortlicher … Mit demELAN-K2-System bietet dasBAFAeinen elektronischen Zugang zu fast allen im Ausfuhrbereich benötigten Anträgen. Um das System nutzen zu können, muss man sich einmalig registrieren.Mehr: ELAN-K2 Ausfuhr … Für die genehmigungspflichtige Ausfuhr oder Verbringung von gelisteten Gütern ist mit der Antragstellung grundsätzlich ein Endverbleibsdokument vorzulegen.Mehr: Endverbleibsdokumente … DieEORI-Nummer wird für alle im Bereich Ausfuhrkontrolle verwendeten Formulare und für die Registrierung im elektronischen AntragssystemELAN-K2benötigt.Mehr: EORI-Nummer … Am 16. September 2023 ist die Besondere Gebühr",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Antragsstellung/antragsstellung_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "6c94a4ee6bbdea072c667f1facef39725d2d917b476ea9772679dfe2bd4e35b9",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Elektronisches Kriegswaffenbuch",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Das Kriegswaffenkontrollgesetz (KrWaffKontrG) verpflichtet alle Unternehmen und Einrichtungen, die ein Kriegswaffenbuch führen müssen, dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) halbjährlich die Bestände und Bestandsveränderungen der Kriegswaffen sowie durchgeführte genehmigungsbedürftige Beförderungshandlungen von Kriegswaffen, welche keine Bestandsveränderungen indizierten, zu melden. Am 1. April 2020 hat dasBAFAdas elektronische Kriegswaffenbuch (eKWB) eingeführt. Mit demeKWBwird die bisherige Meldung in Papierform durch ein elektronisches Verfahren abgelöst. Ziel ist es, das vorangegangene Verfahren zu optimieren undu. a.mittels schneller Kommunikationswege zu modernisieren. Die Meldung soll ausschließlich in elektronischer Form erfolgen. Die Übermittlung erfolgt über dasBAFA-KommunikationsportalELAN-K2. Meldungen in Papierform werden grundsätzlich nicht mehr akzeptiert. Zur Meldung verpflichtet sind alle Entitäten, die ein Kriegswaffenbuch führen müssen. Hinweis:Das Kriegswaffenbuch selbst kann weiterhin auch in Papierform geführt werden. Die elektronische Form ist lediglich für die Übermittlung der Daten an dasBAFAzu den Meldestichtagen (31. März und 30. September eines jeden Kalenderjahres) zwingend erforderlich. Durch die Änderung der 2. Durchführungsverordnung (DVO) zumKrWaffKontrGwurde die rechtliche Grundlage, welche zur Abgabe von elektronischen Kriegswaffenbuchmeldungen verpflichtet, geschaffen. Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Aussenwirtschaft/Kriegswaffenkontrolle/Elektronisches_Kriegswaffenbuch/elektronisches_kriegswaffenbuch_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "8685dc740f37df71fd92097120711bef7738e52b984bbaf1c283bfa72906ac53",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Auslandsmesseprogramm",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Das Bundesministerium für Wirtschaft und Energie (BMWE) beteiligt sich weltweit an internationalen Messen und bietet deutschen Unternehmen über Firmengemeinschaftspräsentationen die Möglichkeit, sich unter dem Dach „made in Germany“ auf attraktiven Märkten zu präsentieren. DasBAFAunterstützt dasBMWEbei der technischen Umsetzung der Gemeinschaftsstände. Unternehmen mit Sitz in der Bundesrepublik Deutschland sowie deren ausländische Niederlassungen und Vertretungen mit Ausstellungsgütern, die in der Bundesrepublik Deutschland oder von deutschen Niederlassungen im Auslandbzw.in deutscher Lizenz hergestellt wurden. Die an den Gemeinschaftsständen teilnehmenden Unternehmen entrichten einen Beteiligungspreis für die Standfläche, den Standbau und die Betreuung durch die Durchführungsgesellschaft (DFG) im Inland und am Veranstaltungsort sowie für weitere organisatorische und technische Leistungen. Das Auslandsmesseprogramm kommt den Firmen indirekt zugute. Direkte Zahlungen an Aussteller werden nicht geleistet. Weitere Möglichkeiten der Förderung sowie Informationen zu Auslandsmärkten und zu einzelnen Zielmärkten finden Sie unter den nachfolgenden Links. Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Wirtschaft/Auslandsmarkterschliessung/Auslandsmesseprogramm/auslandsmesseprogramm_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "84918438bb005a9c9d3a9b8910498d6ca3c5d6c390555c14cd8f2bdd98c206da",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Beratungsgutscheine Afrika",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Mit „Beratungsgutscheinen Afrika“ fördert das Bundesministerium für Wirtschaft und Energie (BMWE) externe Beratungsleistungen insbesondere für kleine und mittelständische Unternehmen der gewerblichen Wirtschaft einschließlich des Handwerks, um diesen eine bedarfsorientierte Beratung zu ihren wirtschaftlichen Vorhaben in Afrika zu ermöglichen. Ziel des Programms ist es, durch diese bedarfsorientierten Beratungsleistungen den Markteintritt von Unternehmen in Afrika zu erleichtern, die Wettbewerbsfähigkeit der zu beratenden Unternehmen zu erhöhen und damit einen wirkungsvollen Beitrag zum Erhalt undggf.zur Schaffung von Arbeitsplätzen sowohl in Europa als auch in afrikanischen Zielmärkten zu leisten. Die Förderung soll insbesondere Unternehmen helfen, mögliche wirtschaftliche Risiken, die mit dem Markteintritt in Afrika verbunden sind, richtig zu bewerten. Gegenstand der Förderung sind externe Beratungsleistungen zur Vorbereitung und Umsetzung von wirtschaftlichen Vorhaben in afrikanischen Zielmärkten durch gelistete Beratungsunternehmen/-organisationen. Die geförderte Beratung kann sich auf Fragen zu bestimmten Branchen oder Wirtschaftszweigen, afrikanischen Zielmärkten, rechtlichen Rahmenbedingungen in Bezug auf Außenhandel und/oder Auslandsinvestitionen und Wirtschaftlichkeitsuntersuchungen zum jeweiligen Vorhaben beziehen. Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 864.0,
+    "foerderquote": 0.85,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Wirtschaft/Auslandsmarkterschliessung/Beratungsgutscheine_Afrika/beratungsgutscheine_afrika_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "61ed106f81adda6a024b0efdbe17c4a4a592d80de00b7e804c53744d754e383e",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Exportinitiative Energie",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Mit der Exportinitiative Energie (zuvor Exportinitiative Erneuerbare Energien und Exportinitiative Energieeffizienz) unterstützt das Bundesministerium für Wirtschaft und Energie (BMWE) kleine und mittlere deutsche Unternehmen der Energiebranche bei der Erschließung von Auslandsmärkten. DasBAFAunterstützt dasBMWEbei der administrativen Umsetzung der Exportinitiative Energie. Quelle:© Bundesministerium für Wirtschaft und Klimaschutz Die Exportinitiative verfolgt das Ziel, deutsche Energie-Technologien international stärker zu positionieren und zu verbreiten, um das Marktpotential für deutsche Technologien und deutschesKnow-howzu erhöhen. Ausgerichtet auf die jeweiligen Exportphasen stehen bei den Angeboten der Exportinitiative die Informationsvermittlung, die Kontakt- und Geschäftsanbahnungbzw.das Auslandsmarketing im Fokus. Die Exportinitiative Energie hilft deutschen Unternehmen dabei: Angesprochen sind kleine und mittlere Unternehmen, die Energielösungen im Bereich Erneuerbare Energien, Energieeffizienz, intelligente Netze oder Speicher anbieten. Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Wirtschaft/Auslandsmarkterschliessung/Exportinitiative_Energie/exportinitiative_energie_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "4175edc6a44904bb9c5ede1a6f485f721631f936c4e8d9319091ef839fc810f5",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Markterschließungsprogramm KMU",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Mit dem Markterschließungsprogramm für kleine und mittlere Unternehmen (KMU) unterstützt das Bundesministerium für Wirtschaft und Energie (BMWE)KMUverschiedenster Branchen bei der Erschließung von Auslandsmärkten. Ausgenommen sind die Branchen, die bereits über spezielle Exportinitiativen abgedeckt sind. DasBAFAunterstützt dasBMWEbei der administrativen Umsetzung des Programms. Quelle:© Bundesministerium für Wirtschaft und Energie Das Markterschließungsprogramm verfolgt das Ziel, deutsche Technologien und Dienstleistungen der verschiedensten Branchen international stärker zu positionieren und zu verbreiten, um das Marktpotential für deutsche Technologien und deutsches Know-how zu erhöhen. Ausgerichtet auf die jeweiligen Exportphasen stehen bei den Angeboten des Markterschließungsprogramms die Informationsvermittlung, die Kontakt- und Geschäftsanbahnungbzw.das Auslandsmarketing im Fokus. Das Markterschließungsprogramm hilft deutschen Unternehmen dabei: Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Wirtschaft/Auslandsmarkterschliessung/Markterschliessungsprogramm_KMU/markterschliessungsprogramm_kmu_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "9347ac32e5bae7909a058358d10ead1fa126c6625b45145c1dde91262c3fa501",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Messeprogramm Young Innovators",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Das Bundesministerium für Wirtschaft und Energie (BMWE) fördert die Teilnahme junger innovativer Unternehmen an ausgesuchten internationalen Leitmessen in Deutschland. Ziel dieses Programms ist es, die Vermarktung innovativer Produkte, Verfahren und Dienstleistungen bestmöglich zu unterstützen, um so Exportmärkte zu erschließen. Gefördert wird die Teilnahme von jungen innovativen Unternehmen an einem vom Messeveranstalter organisierten Gemeinschaftsstand. Zu der Liste der förderfähigen Veranstaltungen gehören Messen, die eine hohe Internationalität auf der Aussteller- und Besucherseite aufweisen. Die Messen, auf denen eine Messeteilnahme an Gemeinschaftsständen gefördert werden kann, werden jährlich vomBMWEfestgelegt (siehe Publikationen). Förderfähig sind rechtlich selbstständige junge innovative Unternehmen die Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": 0.6,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Wirtschaft/Auslandsmarkterschliessung/Messeprogramm_junge_innovative_Unternehmen/messeprogramm_junge_innovative_unternehmen_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "f2dbfa5efdc055926e09e83871e0208d48d998d0e5feec8f6bd453134394593c",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Beratung & Finanzierung",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Mehr: „Bürgerenergiegesellschaften“ bei Windenergie an Land … DasBAFAist an der Vollzugs- und Erfolgskontrolle der regionalen Wirtschaftsförderung im Rahmen der Gemeinschaftsaufgabe beteiligt. In diesem Rahmen findet eine Vollerhebung von Förderdaten im Bereich derGRWstatt.Mehr: Gemeinschaftsaufgabe … Mit INVEST – Zuschuss für Wagniskapital sollen junge innovative Unternehmen bei der Suche nach einem Kapitalgeber unterstützt werden und private Investoren angeregt werden, Wagniskapital für diese Unternehmen zur Verfügung zu stellen.Mehr: INVEST – Zuschuss für Wagniskapital … Das STARK-Programm fördert Projekte, die den Transformationsprozess zu einer ökologisch, ökonomisch und sozial nachhaltigen Wirtschaftsstruktur in den Kohleregionen unterstützen.Mehr: STARK (neu) ab 13.08.2024 … Das STARK-Programm fördert Projekte, die den Transformationsprozess zu einer ökologisch, ökonomisch und sozial nachhaltigen Wirtschaftsstruktur in den Kohleregionen unterstützen.Mehr: STARK (alt) bis 12.08.2024 … Mehr: „Bürgerenergiegesellschaften“ bei Windenergie an Land … DasBAFAist an der Vollzugs- und Erfolgskontrolle der regionalen Wirtschaftsförderung im Rahmen der Gemeinschaftsaufgabe beteiligt. In diesem Rahmen findet eine Vollerhebung von Förderdaten im Bereich derGRWstatt.Mehr: Gemeinschaftsaufgabe … Mit INVEST – Zuschuss für Wagniskapital sollen junge innovative Unternehmen bei der Suche nach einem Kapitalgeber unterstützt werden und private Investoren angeregt werden, Wagniskapital für diese Unternehmen zur Verfügung zu stellen.Mehr: INVEST – Zuschuss für Wagniskapital … Das STARK-Programm fördert Projekte, die den Transformationsprozess zu einer ökologisch, ökonomisch und sozial nachhaltigen Wirtschaftsstruktur in den Kohleregionen unterstützen.Mehr: STARK (neu) ab 13.08.2024 … Das STARK-Programm fördert Projekte, die den Transformationsprozess zu einer ökologisch, ökonomisch und sozial nachhaltigen Wirtschaftsstruktur in den Kohleregionen unterstützen.Mehr: STARK (alt) bis 1",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Wirtschaft/Beratung_Finanzierung/beratung_finanzierung_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "e4fe2f5d69693f8ec0c176547cfb3ba730d5b2555a09342783652d087dde83b6",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Bürgerenergiegesellschaften",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Das Förderprogramm ist am 1. Januar 2023 gestartet. Ziel des Programms ist es, Bürgerenergiegesellschaften bei den hohen Kosten in der Planungs- und Genehmigungsphase von Windenergieanlagen zu unterstützen. Das BMWK hat zum 1. Juli 2024 die Förderbedingungen verbessert. Hierzu gehört, dass die Förderhöchstgrenze auf 300.000 Euro je Projekt erhöht wurde. Zudem wurden die Anforderungen an antragstellende Gesellschaften herabgesetzt. Um gezielt auch neue Bürgerenergiegesellschaften zu fördern, ist eine Mindestmitgliederzahl von 15 natürlichen Personen ausreichend. Auch wurden die Regelungen zur Rückzahlbarkeit der Zuwendung deutlich vereinfacht. Förderfähig im Sinne dieser Förderrichtlinie sind Kosten für die Planung und Genehmigung von Windenergieanlagen an Land bis zu einer Gesamtgröße von 25MWpro Antragsteller. Dabei sind alle im Folgenden genannten förderfähigen Kosten, die bis zum Zeitpunkt der Abgabe eines Gebots im wettbewerblichen Ausschreibungsverfahren nach dem geltendenEEGbzw.bis zur Registrierung der Genehmigung des Projekts im Marktstammdatenregister nach § 22bEEG2023 bei der Bundesnetzagentur entstehen, anrechnungsfähig, sofern hierzu Nachweise und überprüfbare Unterlagen vorgelegt wurden. Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 300000.0,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Wirtschaft/Beratung_Finanzierung/Buergerenergiegesellschaften/buergerenergiegesellschaften_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "2e45f3d521c94becdb72af4fe863f9664ab72f39d5e88e7d165562da4ab9cbee",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "INVEST – Zuschuss für Wagniskapital",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "INVEST bringt Start-ups und privat Investierende zusammen, die an mutige Ideen glauben. Das Förderprogramm mobilisiert mehr privates Wagniskapital von Business Angels und hilft somit Start-ups dabei, leichter einen Investierenden zu finden.Start-ups scheitern häufig schon in der Anfangsphase, weil ihnen das nötige Wagniskapital fehlt. Genau hier setzt das Bundesministerium für Wirtschaft und Energie mit dem Förderprogramm INVEST an.Seit Mai 2013 fördert das Bundesministerium für Wirtschaft und Energie mit dem Programm „INVEST – Zuschuss für Wagniskapital“ Investitionen von Privatpersonen (sogenannte Business Angel), in Start-ups mit steuerfreien Zuschüssen.Die Kriterien zur Bewertung der Marktüblichkeit bestimmter Klauseln wurden überarbeitet. Die aktualisierten Vorgaben gelten ab dem 01.05.2025 und sind unter „Häufige Fragen“ → „Fragen zur Beteiligung und Investition“ zu finden. Jungen, innovativen Unternehmen wird im Rahmen der Antragstellung die Förderfähigkeit für INVEST bescheinigt. Privat Investierende, die Geschäftsanteile an diesen jungen innovativen Unternehmen erwerben, werden gefördert. Der privat Investierende erhält 15 Prozent des Ausgabepreises seiner Anteile als Erwerbszuschuss zurückerstattet. Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 300000.0,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Wirtschaft/Beratung_Finanzierung/Invest/invest_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "580d84a99f4fda131976945a9f72ef6cad3e093af5114f1920acdfed315d6c3e",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Unternehmensberatung",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Das Programm „Förderung von Unternehmensberatungen fürKMU“ wird durch das Bundesministerium für Wirtschaft und Klimaschutz und den Europäischen Sozialfonds Plus gefördert. Die Förderrichtlinie gilt für alle ab dem 1. Januar 2023 gestellten Zuschussanträge. Innerhalb der Geltungsdauer der Förderrichtlinie (bis 31. Dezember 2026) kann jedes förderberechtigte Unternehmen maximal fünf in sich abgeschlossene Beratungen gefördert bekommen, jedoch nicht mehr als zwei pro Jahr. Ausschlaggebend ist hierbei der Zeitpunkt der Antragstellung. DieAntragstellung, die Einreichung desVerwendungsnachweises(Antragstellung bis 19.08.2024) bzw. desVerwendungsnachweises(Antragstellung ab 20.08.2024) sowie das Hochladen zusätzlicher Unterlagen (Upload-Bereich) ist über das jeweilige Online-Portal möglich. Alle weiteren Informationen (u. a.Flyer) zur neuen Förderrichtlinie und zum Verfahren finden Sie nachfolgend. Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Wirtschaft/Beratung_Finanzierung/Unternehmensberatung/unternehmensberatung_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "4c270efe44b87d4797c2b04a2e7c694c894d0934367e9df515d66a857bab98e1",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Aufbauprogramm Wärmepumpe",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Gefördert wird die Teilnahme an Kurzschulungen und fachpraktischen Anleitungen (Coaching) zum Thema Wärmepumpen im Gebäudebestand. Informationsvideo zur Bundesförderung Aufbauprogramm Wärmepumpe (BAW) des Bundesministeriums für Wirtschaft und Klimaschutz (BMWK)Quelle:© BMWK Das „Aufbauprogramm Wärmepumpe“ ist Teil des Klimaschutzgesetz-Sofortprogramms Gebäude vom 13. Juli 2022 und trägt damit zur Klimazielerreichung im Gebäudesektor bis 2030 bei. Der Wandel im Wärmesektor weg von fossiler Energie ist wesentlich für die Erreichung der Ziele des Klimaschutzgesetzes für den Gebäudesektor. Bei der Umstellung der Heizungssysteme im Gebäudebestand wird auf den vermehrten Einbau von Wärmepumpen gesetzt. Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 250.0,
+    "foerderquote": 0.9,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Wirtschaft/Fachkraefte/Aufbauprogramm_Waermepumpe/aufbauprogramm_waermepumpe_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "53abec77abc076ee8d8c1b7f34de2846367a55c9e5d72b1c6254e87f6986d9a3",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Filmförderung",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Die Bundesregierung fördert den deutschen Film und die deutsche Filmwirtschaft. Rund 44 Millionen Euro fließen jedes Jahr allein in Förderprogramme und Auszeichnungen. Die Förderung verfolgt das Ziel die Struktur der deutschen Filmwirtschaft zu sichern und den deutschen Film als Wirtschafts- und Kulturgut zu stärken. Außerdem geht es darum, die Qualität und Vielfalt des deutschen Filmschaffens zu erhalten und weiterzuentwickeln. Das Filmförderungsgesetz (FFG) bildet die Rechtsgrundlage für die Filmförderung durch die Filmförderungsanstalt (FFA). DasBAFAstellt nach dem Filmförderungsgesetz (FFG) vorläufige Projektbescheinigungen und Bescheinigungen darüber aus, dass ein Film den Voraussetzungen der Paragraphen 41, 42 und 44 oder den Paragraphen 43 und 44 entspricht und damit als deutscher Film gilt. Die Bescheinigungen desBAFAsind Grundlage für die Gewährung von Fördermitteln durch die Filmförderungsanstalt (FFA). Die Anlage „Kulturelle Kriterien“ ist dem Antrag immer beizufügen, außer wenn es sich um Koproduktionen handelt, die unter dem Europäischen Abkommen Anerkennung finden sollen. In diesen Fällen ist dem Antrag die „Anlage 2 zum Europäischen Abkommen (Nachweis der Europäischen Elemente)“ beizufügen. Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Wirtschaft/Film_Technik/Filmfoerderung/filmfoerderung_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "efc968fa2146d47aa26f23fba9fbcf619cc5083fffc2d38f829889354fb770f6",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Bundesförderung für Energieberatung für Nichtwohngebäude, Anlagen und Systeme",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Im Rahmen dieses Moduls werden Energieaudits gefördert, die den wesentlichen Anforderungen an ein Energieaudit im Sinne von § 8a des Gesetzes über Energiedienstleistungen und andere Energieeffizienzmaßnahmen (EDL-G) und insbesondere den Anforderungen derDINEN16247 entsprechen.Mehr: Modul 1: Energieaudit DIN EN 16247 … Gefördert werden Energieberatungen für Nichtwohngebäude im Bestand und im Neubau, die es ermöglichen, Energieeffizienz und erneuerbare Energien in den Planungs- und Entscheidungsprozess einzubeziehen und damit die Effizienzpotentiale zum individuell günstigsten Zeitpunkt auszuschöpfen.Mehr: Modul 2: Energieberatung DIN V 18599 … Eine in diesem Modul geförderteContracting-Orientierungsberatung zielt auf einContracting-Modell mit vertraglicher Einspargarantie.Mehr: Modul 3: Contracting-Orientierungsberatung … Im Rahmen dieses Moduls werden Energieaudits gefördert, die den wesentlichen Anforderungen an ein Energieaudit im Sinne von § 8a des Gesetzes über Energiedienstleistungen und andere Energieeffizienzmaßnahmen (EDL-G) und insbesondere den Anforderungen derDINEN16247 entsprechen.Mehr: Modul 1: Energieaudit DIN EN 16247 … Gefördert werden Energieberatungen für Nichtwohngebäude im Bestand und im Neubau, die es ermöglichen, Energieeffizienz und erneuerbare Energien in den Planungs- und Entscheidungsprozess einzubeziehen und damit die Effizienzpotentiale zum individuell günstigsten Zeitpunkt auszuschöpfen.Mehr: Modul 2: Energieberatung DIN V 18599 … Eine in diesem Modul geförderteContracting-Orientierungsberatung zielt auf einContracting-Modell mit vertraglicher Einspargarantie.Mehr: Modul 3: Contracting-Orientierungsberatung … Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Energieberatung/Nichtwohngebaeude_Anlagen_Systeme/nichtwohngebaeude_anlagen_systeme_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "5c63a54ef6d5d79f177bce0785e112270889149309cff6637b0c7613095fbe9d",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Energieberatung & Energieaudit",
+    "anbieter": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "ebene": "bund",
+    "beschreibung": "Das Förderprogramm ersetzt die bisherigen Richtlinien „Energieberatung für Nichtwohngebäude von Kommunen und gemeinnützigen Organisationen“ und „Energieberatung im Mittelstand“. Gefördert werden Energieberatungen zur Erstellung von energetischen Neubau- und Sanierungskonzepten, Energieaudits sowieContracting-Orientierungsberatungen für Nichtwohngebäuden von Kommunen, gewerblich tätigen Unternehmen, freiberuflich Tätigen und gemeinnützigen Organisationen. Alle Nicht-KMU sind verpflichtet gemäß § 8 EDL-G alle vier Jahre ein Energieaudit durchzuführen.Alle Unternehmen ab einem Gesamtenergieverbrauch von mehr als 7,5 GWh müssen gemäß § 8 EnEfG ein Energie- oder Umweltmanagementsystem einrichten.Mehr: Energieaudits und Managementsysteme … Haus- und Wohnungseigentümer, Mieter und Pächter sowie Nießbrauchsberechtigte profitieren von attraktiveren Zuschüssen für Energieberatungen in Wohngebäuden. Damit wird es noch leichter, eine fundierte Informationsgrundlage über energetische Sanierungen von Gebäuden zu erhalten.Mehr: Energieberatung für Wohngebäude … DieBAFAQualifikationsprüfung Energieberatung ermöglicht es, geförderte Energieberatungen durchzuführen, Energieausweise zu erstellen und Kunden bei verschiedenen Bundesförderprogrammen zu begleiten.Mehr: Qualifikationsprüfung Energieberatung … Das Förderprogramm ersetzt die bisherigen Richtlinien „Energieberatung für Nichtwohngebäude von Kommunen und gemeinnützigen Organisationen“ und „Energieberatung im Mittelstand“. Gefördert werden Energieberatungen zur Erstellung von energetischen Neubau- und Sanierungskonzepten, Energieaudits sowieContracting-Orientierungsberatungen für Nichtwohngebäuden von Kommunen, gewerblich tätigen Unternehmen, freiberuflich Tätigen und gemeinnützigen Organisationen. Alle Nicht-KMU sind verpflichtet gemäß § 8 EDL-G alle vier Jahre ein Energieaudit durchzuführen.Alle Unternehmen ab einem Gesamtenergieverbrauch von mehr als 7,5 GWh müssen gemäß § 8 EnEfG ein Energie- oder Umweltmanagementsystem einr",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "Privatperson"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Beratung",
+      "Sanierung",
+      "Elektromobilität",
+      "Gebäude"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bafa.de/DE/Energie/Energieberatung/energieberatung_node.html",
+    "source_url": "https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/effiziente_gebaeude_node.html",
+    "source": "bafa",
+    "scraped_at": "2026-02-13T17:04:18.339403",
+    "raw_html_hash": "6eb26fc13be2b255a6afac3b16758091c3582fc2f136c81b663cb11d3c39ed9b",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "ERP-Gründerkredit - StartGeld (067)",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 125000.0,
+    "foerderquote": null,
+    "foerderart": "kredit",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.kfw.de/inlandsfoerderung/Unternehmen/Gr%C3%BCndung-Nachfolge/ERP-Gr%C3%BCnderkredit-Startgeld/index.html",
+    "source_url": "https://www.kfw.de/inlandsfoerderung/Unternehmen/Gr%C3%BCndung-Nachfolge/ERP-Gr%C3%BCnderkredit-Startgeld/index.html",
+    "source": "kfw",
+    "scraped_at": "2026-02-13T17:05:20.355413",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "ERP-Gründerkredit - Universell (073, 074, 075, 076)",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 25000000.0,
+    "foerderquote": null,
+    "foerderart": "kredit",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.kfw.de/inlandsfoerderung/Unternehmen/Gr%C3%BCndung-Nachfolge/ERP-Gr%C3%BCnderkredit-Universell/index.html",
+    "source_url": "https://www.kfw.de/inlandsfoerderung/Unternehmen/Gr%C3%BCndung-Nachfolge/ERP-Gr%C3%BCnderkredit-Universell/index.html",
+    "source": "kfw",
+    "scraped_at": "2026-02-13T17:05:20.355413",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "ERP-Kapital für Gründung (058)",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 500000.0,
+    "foerderquote": null,
+    "foerderart": "kredit",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.kfw.de/inlandsfoerderung/Unternehmen/Gr%C3%BCndung-Nachfolge/ERP-Kapital-f%C3%BCr-Gr%C3%BCndung/index.html",
+    "source_url": "https://www.kfw.de/inlandsfoerderung/Unternehmen/Gr%C3%BCndung-Nachfolge/ERP-Kapital-f%C3%BCr-Gr%C3%BCndung/index.html",
+    "source": "kfw",
+    "scraped_at": "2026-02-13T17:05:20.355413",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "ERP-Digitalisierungs- und Innovationskredit (380, 390, 391)",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 25000000.0,
+    "foerderquote": null,
+    "foerderart": "kredit",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.kfw.de/inlandsfoerderung/Unternehmen/Innovation/ERP-Digitalisierungs-Innovationskredit/index.html",
+    "source_url": "https://www.kfw.de/inlandsfoerderung/Unternehmen/Innovation/ERP-Digitalisierungs-Innovationskredit/index.html",
+    "source": "kfw",
+    "scraped_at": "2026-02-13T17:05:20.355413",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "KfW-Unternehmerkredit (037, 047)",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 25000000.0,
+    "foerderquote": null,
+    "foerderart": "kredit",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.kfw.de/inlandsfoerderung/Unternehmen/Erweitern-Festigen/KfW-Unternehmerkredit/index.html",
+    "source_url": "https://www.kfw.de/inlandsfoerderung/Unternehmen/Erweitern-Festigen/KfW-Unternehmerkredit/index.html",
+    "source": "kfw",
+    "scraped_at": "2026-02-13T17:05:20.355413",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Bundesförderung für effiziente Gebäude (261, 263)",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 150000.0,
+    "foerderquote": null,
+    "foerderart": "kredit",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.kfw.de/inlandsfoerderung/Unternehmen/Energie-Umwelt/F%C3%B6rderprodukte-f%C3%BCr-Bestandsgeb%C3%A4ude-%28Unternehmen%29/index.html",
+    "source_url": "https://www.kfw.de/inlandsfoerderung/Unternehmen/Energie-Umwelt/F%C3%B6rderprodukte-f%C3%BCr-Bestandsgeb%C3%A4ude-%28Unternehmen%29/index.html",
+    "source": "kfw",
+    "scraped_at": "2026-02-13T17:05:20.355413",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Erneuerbare Energien - Standard (270)",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 150000000.0,
+    "foerderquote": null,
+    "foerderart": "kredit",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.kfw.de/inlandsfoerderung/Unternehmen/Energie-Umwelt/Erneuerbare-Energien-Standard/index.html",
+    "source_url": "https://www.kfw.de/inlandsfoerderung/Unternehmen/Energie-Umwelt/Erneuerbare-Energien-Standard/index.html",
+    "source": "kfw",
+    "scraped_at": "2026-02-13T17:05:20.355413",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Klimaschutzoffensive für Unternehmen (293)",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 25000000.0,
+    "foerderquote": null,
+    "foerderart": "kredit",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.kfw.de/inlandsfoerderung/Unternehmen/Energie-Umwelt/Klimaschutzoffensive-f%C3%BCr-Unternehmen/index.html",
+    "source_url": "https://www.kfw.de/inlandsfoerderung/Unternehmen/Energie-Umwelt/Klimaschutzoffensive-f%C3%BCr-Unternehmen/index.html",
+    "source": "kfw",
+    "scraped_at": "2026-02-13T17:05:20.355413",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "",
+    "anbieter": "KfW - Kreditanstalt für Wiederaufbau",
+    "ebene": "bund",
+    "beschreibung": "Verantwortung übernehmen zahlt sich ausDer schonende Umgang mit Energie und unserer Umwelt ist längst zum Erfolgsfaktor geworden. Wir unterstützen den Mittelstand und große Unternehmen dabei, nachhaltig zu investieren und voranzugehen.",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": null,
+    "foerderquote": null,
+    "foerderart": "kredit",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "GmbH & Co. KG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG"
+      ],
+      "regionen": [
+        "bundesweit"
+      ]
+    },
+    "foerdergegenstand": [
+      "Energieeffizienz",
+      "Klimaschutz"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.kfw.de/inlandsfoerderung/Unternehmen/Energie-und-Umwelt/",
+    "source_url": "https://www.kfw.de/inlandsfoerderung/Unternehmen/index.html",
+    "source": "kfw",
+    "scraped_at": "2026-02-13T17:05:20.355413",
+    "raw_html_hash": "805a75a9c291c73805b76b3485f7c059640b021132274b7008ca7188bf5ec982",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Innovationsgutschein",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "",
+    "foerderhoehe_min": 5000.0,
+    "foerderhoehe_max": 15000.0,
+    "foerderquote": 0.8,
+    "foerderart": "zuschuss",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.sab.sachsen.de/f%C3%B6rderprogramme/alle-programme/innovationsgutschein",
+    "source_url": "https://www.sab.sachsen.de/f%C3%B6rderprogramme/alle-programme/innovationsgutschein",
+    "source": "sab_sachsen",
+    "scraped_at": "2026-02-13T17:05:59.762541",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "GRW - Gewerbliche Wirtschaft",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 2000000.0,
+    "foerderquote": 0.35,
+    "foerderart": "zuschuss",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.sab.sachsen.de/f%C3%B6rderprogramme/alle-programme/grw-gewerbliche-wirtschaft",
+    "source_url": "https://www.sab.sachsen.de/f%C3%B6rderprogramme/alle-programme/grw-gewerbliche-wirtschaft",
+    "source": "sab_sachsen",
+    "scraped_at": "2026-02-13T17:05:59.762541",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Mittelstandsrichtlinie - Beratung",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 20000.0,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.sab.sachsen.de/f%C3%B6rderprogramme/alle-programme/mittelstandsrichtlinie-beratung",
+    "source_url": "https://www.sab.sachsen.de/f%C3%B6rderprogramme/alle-programme/mittelstandsrichtlinie-beratung",
+    "source": "sab_sachsen",
+    "scraped_at": "2026-02-13T17:05:59.762541",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Mittelstandsrichtlinie - Markterschließung",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 15000.0,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.sab.sachsen.de/f%C3%B6rderprogramme/alle-programme/mittelstandsrichtlinie-markterschlie%C3%9Fung",
+    "source_url": "https://www.sab.sachsen.de/f%C3%B6rderprogramme/alle-programme/mittelstandsrichtlinie-markterschlie%C3%9Fung",
+    "source": "sab_sachsen",
+    "scraped_at": "2026-02-13T17:05:59.762541",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Technologieförderung - InnoTeam",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 400000.0,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.sab.sachsen.de/f%C3%B6rderprogramme/alle-programme/technologief%C3%B6rderung-innoteam",
+    "source_url": "https://www.sab.sachsen.de/f%C3%B6rderprogramme/alle-programme/technologief%C3%B6rderung-innoteam",
+    "source": "sab_sachsen",
+    "scraped_at": "2026-02-13T17:05:59.762541",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Technologieförderung - Einzelprojekte",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 1000000.0,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.sab.sachsen.de/f%C3%B6rderprogramme/alle-programme/technologief%C3%B6rderung-einzelprojekte",
+    "source_url": "https://www.sab.sachsen.de/f%C3%B6rderprogramme/alle-programme/technologief%C3%B6rderung-einzelprojekte",
+    "source": "sab_sachsen",
+    "scraped_at": "2026-02-13T17:05:59.762541",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Gründerberatung",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 4000.0,
+    "foerderquote": 0.8,
+    "foerderart": "zuschuss",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.sab.sachsen.de/f%C3%B6rderprogramme/alle-programme/gr%C3%BCnderberatung",
+    "source_url": "https://www.sab.sachsen.de/f%C3%B6rderprogramme/alle-programme/gr%C3%BCnderberatung",
+    "source": "sab_sachsen",
+    "scraped_at": "2026-02-13T17:05:59.762541",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Mikrokredit Sachsen",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 20000.0,
+    "foerderquote": null,
+    "foerderart": "kredit",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.sab.sachsen.de/f%C3%B6rderprogramme/alle-programme/mikrokredit-sachsen",
+    "source_url": "https://www.sab.sachsen.de/f%C3%B6rderprogramme/alle-programme/mikrokredit-sachsen",
+    "source": "sab_sachsen",
+    "scraped_at": "2026-02-13T17:05:59.762541",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Sachsen-Kredit",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 2000000.0,
+    "foerderquote": null,
+    "foerderart": "kredit",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.sab.sachsen.de/f%C3%B6rderprogramme/alle-programme/sachsen-kredit",
+    "source_url": "https://www.sab.sachsen.de/f%C3%B6rderprogramme/alle-programme/sachsen-kredit",
+    "source": "sab_sachsen",
+    "scraped_at": "2026-02-13T17:05:59.762541",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Energie und Klima (EFRE)",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 500000.0,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.sab.sachsen.de/f%C3%B6rderprogramme/alle-programme/energie-und-klima-efre",
+    "source_url": "https://www.sab.sachsen.de/f%C3%B6rderprogramme/alle-programme/energie-und-klima-efre",
+    "source": "sab_sachsen",
+    "scraped_at": "2026-02-13T17:05:59.762541",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "go-digital",
+    "anbieter": "BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+    "ebene": "bund",
+    "beschreibung": "Förderprogramm für kleine und mittlere Unternehmen zur Digitalisierung. Unterstützt werden Beratungsleistungen in den Modulen Digitalisierte Geschäftsprozesse, Digitale Markterschließung und IT-Sicherheit.",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 16500.0,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html",
+    "source_url": "https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html",
+    "source": "bmwk",
+    "scraped_at": "2026-02-13T17:06:48.528911",
+    "raw_html_hash": "328c27faf82e8fe3a610812ce31330db89afa06f84ab1a94cb29ad5fbc66803a",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "go-inno",
+    "anbieter": "BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+    "ebene": "bund",
+    "beschreibung": "Beratungsförderung für innovative KMU. Unterstützt werden Beratungsleistungen zur Vorbereitung und Durchführung von Produkt- und technischen Verfahrensinnovationen.",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 20000.0,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/go-inno.html",
+    "source_url": "https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/go-inno.html",
+    "source": "bmwk",
+    "scraped_at": "2026-02-13T17:06:48.528911",
+    "raw_html_hash": "187b47ea859ec4177977ede4cb15e26bd10a18dcdb319fe061d495d5abeb0533",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "ZIM - Zentrales Innovationsprogramm Mittelstand",
+    "anbieter": "BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+    "ebene": "bund",
+    "beschreibung": "Das ZIM ist das größte Innovationsförderprogramm für den Mittelstand. Es fördert Forschungs- und Entwicklungsprojekte von KMU und deren Kooperationen mit Forschungseinrichtungen.",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 550000.0,
+    "foerderquote": 0.45,
+    "foerderart": "zuschuss",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/zim.html",
+    "source_url": "https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/zim.html",
+    "source": "bmwk",
+    "scraped_at": "2026-02-13T17:06:48.528911",
+    "raw_html_hash": "993b2d664c9ab6607cdf8ae791711962ae9d579b1c1d3db960fbc216cdcd8552",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "EXIST-Gründerstipendium",
+    "anbieter": "BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+    "ebene": "bund",
+    "beschreibung": "Unterstützt Studierende, Absolventen und Wissenschaftler bei der Vorbereitung innovativer technologieorientierter Gründungsvorhaben.",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 3000.0,
+    "foerderquote": 1.0,
+    "foerderart": "zuschuss",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/exist-gruenderstipendium.html",
+    "source_url": "https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/exist-gruenderstipendium.html",
+    "source": "bmwk",
+    "scraped_at": "2026-02-13T17:06:48.528911",
+    "raw_html_hash": "302f4ad4508c1a5943c3f6039cc5c9d6fa62488ede660b28a0524f0486db48cf",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "EXIST-Forschungstransfer",
+    "anbieter": "BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+    "ebene": "bund",
+    "beschreibung": "Fördert herausragende forschungsbasierte Gründungsvorhaben. Unterstützt Entwicklungsarbeiten und die Vorbereitung einer Unternehmensgründung.",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 250000.0,
+    "foerderquote": 1.0,
+    "foerderart": "zuschuss",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/exist-forschungstransfer.html",
+    "source_url": "https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/exist-forschungstransfer.html",
+    "source": "bmwk",
+    "scraped_at": "2026-02-13T17:06:48.528911",
+    "raw_html_hash": "38cecebd669a74a130dd5f83150a03b0c6a868bc9401ca1bb6f053d60e704077",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "INVEST - Zuschuss für Wagniskapital",
+    "anbieter": "BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+    "ebene": "bund",
+    "beschreibung": "Fördert Business Angels und andere Privatinvestoren, die in innovative Startups investieren. 25% Zuschuss auf Investments bis 400.000€.",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 100000.0,
+    "foerderquote": 0.25,
+    "foerderart": "zuschuss",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/invest-zuschuss-fuer-wagniskapital.html",
+    "source_url": "https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/invest-zuschuss-fuer-wagniskapital.html",
+    "source": "bmwk",
+    "scraped_at": "2026-02-13T17:06:48.528911",
+    "raw_html_hash": "d943a54c0ee463c5a81040fc7cbb4b6f4d774707b6a50e8d5e6b11de1618d266",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "ERP-Digitalisierungs- und Innovationskredit",
+    "anbieter": "BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+    "ebene": "bund",
+    "beschreibung": "Wir bitten Sie an dieser Stelle um Ihre Einwilligung für die Nutzung unseres Videodienstes. Nähere Informationen zu allen Diensten finden Sie, wenn Sie die Pluszeichen rechts aufklappen. Sie können Ihre Einwilligungen jederzeit erteilen oder für die Zukunft widerrufen. Rufen Sie dazu bitte diese Einwilligungsverwaltung über den Link am Ende der Seite erneut auf. Ausführliche Informationen über Ihre Betroffenenrechte und darüber, wie wir Ihre Privatsphäre schützen, entnehmen Sie bitte unsererDatenschutzerklärung.",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 25000000.0,
+    "foerderquote": null,
+    "foerderart": "kredit",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "GmbH & Co. KG",
+        "Einzelunternehmen"
+      ],
+      "regionen": [
+        "bundesweit"
+      ],
+      "mitarbeiter_max": 250
+    },
+    "foerdergegenstand": [
+      "Digitalisierung",
+      "Innovation",
+      "Existenzgründung",
+      "Unternehmensfinanzierung",
+      "Klimaschutz",
+      "Forschung & Entwicklung",
+      "Beratung"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/erp-digitalisierungs-und-innovationskredit.html",
+    "source_url": "https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/erp-digitalisierungs-und-innovationskredit.html",
+    "source": "bmwk",
+    "scraped_at": "2026-02-13T17:06:48.528911",
+    "raw_html_hash": "75a623cb8ffa3b160679ad07d0bd3f571575bb53ae85abfe1d96787415c6a1e7",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "ERP-Gründerkredit StartGeld",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "Günstiger Kredit für Existenzgründer und junge Unternehmen bis 5 Jahre nach Gründung.",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 125000.0,
+    "foerderquote": null,
+    "foerderart": "kredit",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/erp-gruenderkredit-startgeld.html",
+    "source_url": "https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/erp-gruenderkredit-startgeld.html",
+    "source": "bmwk",
+    "scraped_at": "2026-02-13T17:06:48.528911",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Mikromezzaninfonds Deutschland",
+    "anbieter": "",
+    "ebene": "bund",
+    "beschreibung": "Stille Beteiligungen für Kleinstunternehmen, Existenzgründer und Sozialunternehmen.",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 75000.0,
+    "foerderquote": null,
+    "foerderart": "beteiligung",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/mikromezzaninfonds-deutschland.html",
+    "source_url": "https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/mikromezzaninfonds-deutschland.html",
+    "source": "bmwk",
+    "scraped_at": "2026-02-13T17:06:48.528911",
+    "raw_html_hash": "",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "Innovationsprämie Klima",
+    "anbieter": "BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+    "ebene": "bund",
+    "beschreibung": "Unterstützt kleine Unternehmen bei der Entwicklung und Umsetzung von klimaschonenden Produkten und Dienstleistungen.",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 35000.0,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "zielgruppe": {},
+    "foerdergegenstand": [],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/innovationspraemie-klima.html",
+    "source_url": "https://www.bmwk.de/Redaktion/DE/Artikel/Mittelstand/innovationspraemie-klima.html",
+    "source": "bmwk",
+    "scraped_at": "2026-02-13T17:06:48.528911",
+    "raw_html_hash": "e9407373088a702a18c0c72ae162509e6614cd7db5b4352492fe881c859349a2",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "go-digital",
+    "anbieter": "BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+    "ebene": "bund",
+    "beschreibung": "go-digital unterstützt kleine und mittlere Unternehmen (KMU) sowie Handwerksbetriebe bei der Digitalisierung durch geförderte Beratungsleistungen. Das Programm fördert 50% der Beratungskosten bis maximal 16.500 € in drei Modulen: Digitalisierte Geschäftsprozesse, Digitale Markterschließung und IT-Sicherheit. Die Beratung erfolgt durch vom BMWK autorisierte Beratungsunternehmen.",
+    "foerderhoehe_min": 0.0,
+    "foerderhoehe_max": 16500.0,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "GmbH & Co. KG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "eG",
+        "Freiberufler"
+      ],
+      "mitarbeiter_max": 100,
+      "umsatz_max": 20000000,
+      "branchen": [
+        "Handwerk",
+        "Handel",
+        "Dienstleistung",
+        "Produktion"
+      ],
+      "regionen": [
+        "bundesweit"
+      ],
+      "ausschluss": [
+        "Unternehmen der Primärproduktion landwirtschaftlicher Erzeugnisse",
+        "Unternehmen der Fischerei und Aquakultur",
+        "Unternehmensberatungen"
+      ]
+    },
+    "foerdergegenstand": [
+      "Digitalisierung",
+      "Beratung",
+      "IT-Sicherheit",
+      "E-Commerce"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html",
+    "source_url": "https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html",
+    "source": "godigital",
+    "scraped_at": "2026-02-13T17:07:09.853271",
+    "raw_html_hash": "af2cc3ba8b0794380e9fa227c29701f2bda3289cec1ce2e0f5c54c8f6375e8bf",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "go-digital - Modul: Digitalisierte Geschäftsprozesse",
+    "anbieter": "BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+    "ebene": "bund",
+    "beschreibung": "Beratung zur Einführung und Optimierung digitaler Geschäftsprozesse. Schwerpunkte: ERP-Systeme, Dokumentenmanagement, Workflow-Automatisierung, Cloud-Lösungen.",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 16500.0,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "GmbH & Co. KG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "eG",
+        "Freiberufler"
+      ],
+      "mitarbeiter_max": 100,
+      "umsatz_max": 20000000,
+      "branchen": [
+        "Handwerk",
+        "Handel",
+        "Dienstleistung",
+        "Produktion"
+      ],
+      "regionen": [
+        "bundesweit"
+      ],
+      "ausschluss": [
+        "Unternehmen der Primärproduktion landwirtschaftlicher Erzeugnisse",
+        "Unternehmen der Fischerei und Aquakultur",
+        "Unternehmensberatungen"
+      ]
+    },
+    "foerdergegenstand": [
+      "Digitalisierung",
+      "Geschäftsprozesse",
+      "ERP",
+      "Workflow"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html",
+    "source_url": "https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html",
+    "source": "godigital",
+    "scraped_at": "2026-02-13T17:07:09.853271",
+    "raw_html_hash": "25c2644b46bec8657356dd3984b7a8d6d0581c38c0498764bb274403971bf338",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "go-digital - Modul: Digitale Markterschließung",
+    "anbieter": "BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+    "ebene": "bund",
+    "beschreibung": "Beratung zur Erschließung digitaler Vertriebskanäle. Schwerpunkte: Online-Marketing, E-Commerce, Social Media Marketing, Webshop-Aufbau.",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 16500.0,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "GmbH & Co. KG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "eG",
+        "Freiberufler"
+      ],
+      "mitarbeiter_max": 100,
+      "umsatz_max": 20000000,
+      "branchen": [
+        "Handwerk",
+        "Handel",
+        "Dienstleistung",
+        "Produktion"
+      ],
+      "regionen": [
+        "bundesweit"
+      ],
+      "ausschluss": [
+        "Unternehmen der Primärproduktion landwirtschaftlicher Erzeugnisse",
+        "Unternehmen der Fischerei und Aquakultur",
+        "Unternehmensberatungen"
+      ]
+    },
+    "foerdergegenstand": [
+      "Digitalisierung",
+      "E-Commerce",
+      "Online-Marketing",
+      "Vertrieb"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html",
+    "source_url": "https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html",
+    "source": "godigital",
+    "scraped_at": "2026-02-13T17:07:09.853271",
+    "raw_html_hash": "931ec7bf1cf4a57cf2e8d8b37b6526972bf1f8adb64d1593544de5e326e5b80b",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  },
+  {
+    "name": "go-digital - Modul: IT-Sicherheit",
+    "anbieter": "BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+    "ebene": "bund",
+    "beschreibung": "Beratung zur Verbesserung der IT-Sicherheit. Schwerpunkte: Risikoanalyse, Sicherheitskonzepte, Datenschutz, Notfallmanagement, Mitarbeiterschulungen.",
+    "foerderhoehe_min": null,
+    "foerderhoehe_max": 16500.0,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "zielgruppe": {
+      "rechtsform": [
+        "GmbH",
+        "UG",
+        "AG",
+        "GmbH & Co. KG",
+        "Einzelunternehmen",
+        "KG",
+        "OHG",
+        "eG",
+        "Freiberufler"
+      ],
+      "mitarbeiter_max": 100,
+      "umsatz_max": 20000000,
+      "branchen": [
+        "Handwerk",
+        "Handel",
+        "Dienstleistung",
+        "Produktion"
+      ],
+      "regionen": [
+        "bundesweit"
+      ],
+      "ausschluss": [
+        "Unternehmen der Primärproduktion landwirtschaftlicher Erzeugnisse",
+        "Unternehmen der Fischerei und Aquakultur",
+        "Unternehmensberatungen"
+      ]
+    },
+    "foerdergegenstand": [
+      "IT-Sicherheit",
+      "Datenschutz",
+      "Cybersecurity"
+    ],
+    "laufzeit_start": null,
+    "laufzeit_ende": null,
+    "deadline": null,
+    "url_offiziell": "https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html",
+    "source_url": "https://www.bmwk.de/Redaktion/DE/Artikel/Digitale-Welt/foerderprogramm-go-digital.html",
+    "source": "godigital",
+    "scraped_at": "2026-02-13T17:07:09.853271",
+    "raw_html_hash": "5ab3df469d5f3ef6f0749317f0ce0aa8b2f223b9cc4f2479ca86ebcfbedfa9ed",
+    "confidence_score": 0.8,
+    "status": "pending_review"
+  }
+]

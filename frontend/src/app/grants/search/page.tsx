@@ -1,61 +1,43 @@
 "use client";
 
 import { useState } from "react";
-
-interface Grant {
-  id: string;
-  name: string;
-  type: string;
-  category: string;
-  max_funding: number;
-  description: string;
-  match_score: number;
-  historical_success_rate: number;
-  deadline: string | null;
-  is_continuous: boolean;
-}
+import { useRouter } from "next/navigation";
+import Link from "next/link";
+import { grantsApi, Grant } from "@/lib/api/grants";
 
 export default function GrantSearchPage() {
+  const router = useRouter();
   const [query, setQuery] = useState("");
   const [budget, setBudget] = useState("");
+  const [location, setLocation] = useState("");
   const [results, setResults] = useState<Grant[]>([]);
   const [searching, setSearching] = useState(false);
+  const [error, setError] = useState<string | null>(null);
 
   const handleSearch = async () => {
-    if (!query.trim()) return;
+    if (!query.trim()) {
+      setError("Bitte geben Sie eine Projektbeschreibung ein");
+      return;
+    }
 
     setSearching(true);
+    setError(null);
 
     try {
-      const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8008";
-      
-      const response = await fetch(`${API_URL}/api/v1/grants/search`, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          project_description: query,
-          budget: budget ? parseFloat(budget) : null,
-        }),
+      const data = await grantsApi.search({
+        project_description: query,
+        budget: budget ? parseFloat(budget) : undefined,
+        location: location || undefined,
       });
-
-      if (!response.ok) {
-        throw new Error("Suche fehlgeschlagen");
-      }
-
-      const data = await response.json();
       
-      // Map API response to frontend format
-      const mappedResults = data.map((grant: any) => ({
-        id: grant.id,
-        name: grant.name,
-        type: grant.type,
-        category: grant.category,
-        max_funding: grant.max_funding || 0,
-        description: grant.description,
-        match_score: grant.match_score || 0,
-        historical_success_rate: grant.success_rate || 0.6,
+      setResults(data);
+    } catch (err: any) {
+      console.error("Search error:", err);
+      setError(err.response?.data?.detail || "Fehler bei der Suche. Bitte versuchen Sie es erneut.");
+    } finally {
+      setSearching(false);
+    }
+  };
         deadline: grant.deadline !== "Laufend" ? grant.deadline : null,
         is_continuous: grant.deadline === "Laufend",
       }));

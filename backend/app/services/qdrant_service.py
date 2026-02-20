@@ -135,6 +135,120 @@ class QdrantService:
         except Exception as e:
             print(f"Error deleting grant {grant_id}: {e}")
             raise
+    
+    def search_grants_by_filter(
+        self,
+        filter_conditions: Dict[str, Any],
+        limit: int = 10
+    ) -> List[Dict[str, Any]]:
+        """
+        Search grants by exact filter conditions (no vector search)
+        
+        Args:
+            filter_conditions: Dictionary of field-value pairs to filter by
+            limit: Maximum number of results
+            
+        Returns:
+            List of matching grants
+        """
+        try:
+            conditions = []
+            for key, value in filter_conditions.items():
+                conditions.append(
+                    FieldCondition(
+                        key=key,
+                        match=MatchValue(value=value)
+                    )
+                )
+            
+            query_filter = Filter(must=conditions) if conditions else None
+            
+            # Use scroll to get points with filter
+            results, _ = self.client.scroll(
+                collection_name=self.collection_name,
+                scroll_filter=query_filter,
+                limit=limit,
+                with_payload=True,
+                with_vectors=False
+            )
+            
+            return [
+                {
+                    "id": result.id,
+                    "payload": result.payload,
+                    "score": 1.0  # No similarity score for filter-only search
+                }
+                for result in results
+            ]
+        except Exception as e:
+            print(f"Error searching grants by filter: {e}")
+            raise
+    
+    def scroll_grants(
+        self,
+        filter_conditions: Optional[Dict[str, Any]] = None,
+        limit: int = 20,
+        offset: int = 0
+    ) -> List[Dict[str, Any]]:
+        """
+        Scroll through grants with optional filtering and pagination
+        
+        Args:
+            filter_conditions: Optional dictionary of filter conditions
+            limit: Number of results per page
+            offset: Offset for pagination
+            
+        Returns:
+            List of grants
+        """
+        try:
+            # Build filter
+            query_filter = None
+            if filter_conditions:
+                conditions = []
+                for key, value in filter_conditions.items():
+                    conditions.append(
+                        FieldCondition(
+                            key=key,
+                            match=MatchValue(value=value)
+                        )
+                    )
+                if conditions:
+                    query_filter = Filter(must=conditions)
+            
+            # Scroll with offset
+            results, _ = self.client.scroll(
+                collection_name=self.collection_name,
+                scroll_filter=query_filter,
+                limit=limit,
+                offset=offset,
+                with_payload=True,
+                with_vectors=False
+            )
+            
+            return [
+                {
+                    "id": result.id,
+                    "payload": result.payload
+                }
+                for result in results
+            ]
+        except Exception as e:
+            print(f"Error scrolling grants: {e}")
+            raise
+    
+    def get_collection_stats(self) -> Dict[str, Any]:
+        """Get statistics about the collection"""
+        try:
+            info = self.client.get_collection(self.collection_name)
+            return {
+                "total_points": info.points_count,
+                "vector_size": info.config.params.vectors.size,
+                "distance": info.config.params.vectors.distance.value
+            }
+        except Exception as e:
+            print(f"Error getting collection stats: {e}")
+            raise
 
 
 # Singleton instance

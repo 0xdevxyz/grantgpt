@@ -1,0 +1,1226 @@
+[
+  {
+    "id": "zim-einzelprojekte",
+    "name": "ZIM - Einzelprojekte",
+    "anbieter": "BMWK",
+    "ebene": "bund",
+    "foerderhoehe_min": 50000,
+    "foerderhoehe_max": 550000,
+    "foerderquote": 0.45,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung von Forschungs- und Entwicklungsprojekten einzelner KMU. Gefördert werden innovative Produkt- und Verfahrensentwicklungen mit hohem technischen Risiko.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "UG", "AG", "GmbH & Co. KG", "Einzelunternehmen"],
+      "mitarbeiter_max": 500,
+      "branchen": ["alle"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Innovation", "Forschung & Entwicklung"],
+    "url_offiziell": "https://www.zim.de",
+    "status": "active"
+  },
+  {
+    "id": "zim-kooperationen",
+    "name": "ZIM - Kooperationsprojekte",
+    "anbieter": "BMWK",
+    "ebene": "bund",
+    "foerderhoehe_min": 100000,
+    "foerderhoehe_max": 800000,
+    "foerderquote": 0.55,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung von FuE-Kooperationsprojekten zwischen KMU und Forschungseinrichtungen. Höhere Förderquote durch Kooperationsbonus.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "UG", "AG", "GmbH & Co. KG"],
+      "mitarbeiter_max": 500,
+      "branchen": ["alle"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Innovation", "Forschung & Entwicklung", "Kooperation"],
+    "url_offiziell": "https://www.zim.de",
+    "status": "active"
+  },
+  {
+    "id": "godigital-modul1",
+    "name": "go-digital - Digitalisierte Geschäftsprozesse",
+    "anbieter": "BMWK",
+    "ebene": "bund",
+    "foerderhoehe_max": 16500,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Beratungsförderung zur Einführung digitaler Geschäftsprozesse: ERP-Systeme, Dokumentenmanagement, Workflow-Automatisierung, Cloud-Lösungen.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "UG", "AG", "Einzelunternehmen", "Freiberufler"],
+      "mitarbeiter_max": 100,
+      "umsatz_max": 20000000,
+      "branchen": ["Handwerk", "Handel", "Dienstleistung"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Digitalisierung", "Beratung", "Geschäftsprozesse"],
+    "url_offiziell": "https://www.bmwk.de/go-digital",
+    "status": "active"
+  },
+  {
+    "id": "godigital-modul2",
+    "name": "go-digital - Digitale Markterschließung",
+    "anbieter": "BMWK",
+    "ebene": "bund",
+    "foerderhoehe_max": 16500,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Beratungsförderung für Online-Marketing, E-Commerce, Social Media Marketing und Webshop-Aufbau.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "UG", "AG", "Einzelunternehmen"],
+      "mitarbeiter_max": 100,
+      "umsatz_max": 20000000,
+      "branchen": ["Handel", "Dienstleistung", "Handwerk"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Digitalisierung", "E-Commerce", "Marketing"],
+    "url_offiziell": "https://www.bmwk.de/go-digital",
+    "status": "active"
+  },
+  {
+    "id": "godigital-modul3",
+    "name": "go-digital - IT-Sicherheit",
+    "anbieter": "BMWK",
+    "ebene": "bund",
+    "foerderhoehe_max": 16500,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Beratungsförderung für IT-Sicherheitskonzepte, Datenschutz, Cybersecurity und Mitarbeiterschulungen.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "UG", "AG", "Einzelunternehmen"],
+      "mitarbeiter_max": 100,
+      "branchen": ["alle"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["IT-Sicherheit", "Datenschutz", "Beratung"],
+    "url_offiziell": "https://www.bmwk.de/go-digital",
+    "status": "active"
+  },
+  {
+    "id": "goinno",
+    "name": "go-inno - Innovationsberatung",
+    "anbieter": "BMWK",
+    "ebene": "bund",
+    "foerderhoehe_max": 20000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Beratungsförderung für innovative KMU bei Produkt- und Verfahrensinnovationen. Unterstützt Technologieberatung und Innovationsmanagement.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "UG", "AG", "GmbH & Co. KG"],
+      "mitarbeiter_max": 250,
+      "branchen": ["Produktion", "IT", "Handwerk"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Innovation", "Beratung", "Technologie"],
+    "url_offiziell": "https://www.bmwk.de/go-inno",
+    "status": "active"
+  },
+  {
+    "id": "exist-gruenderstipendium",
+    "name": "EXIST-Gründerstipendium",
+    "anbieter": "BMWK",
+    "ebene": "bund",
+    "foerderhoehe_max": 150000,
+    "foerderquote": 1.0,
+    "foerderart": "zuschuss",
+    "beschreibung": "Stipendium für Studierende, Absolventen und Wissenschaftler zur Vorbereitung innovativer Unternehmensgründungen. 1-3 Jahre nach Studienabschluss beantragbar.",
+    "zielgruppe": {
+      "rechtsform": ["Natürliche Person"],
+      "branchen": ["Technologie", "Wissenschaft"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Existenzgründung", "Innovation", "Hochschule"],
+    "url_offiziell": "https://www.exist.de",
+    "status": "active"
+  },
+  {
+    "id": "exist-forschungstransfer",
+    "name": "EXIST-Forschungstransfer",
+    "anbieter": "BMWK",
+    "ebene": "bund",
+    "foerderhoehe_max": 250000,
+    "foerderquote": 1.0,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung herausragender forschungsbasierter Gründungsvorhaben. Entwicklungsarbeiten und Gründungsvorbereitung aus Hochschulen.",
+    "zielgruppe": {
+      "rechtsform": ["Natürliche Person", "GmbH i.G."],
+      "branchen": ["Technologie", "Wissenschaft"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Existenzgründung", "Forschungstransfer", "Innovation"],
+    "url_offiziell": "https://www.exist.de",
+    "status": "active"
+  },
+  {
+    "id": "invest-zuschuss",
+    "name": "INVEST - Zuschuss für Wagniskapital",
+    "anbieter": "BMWK",
+    "ebene": "bund",
+    "foerderhoehe_max": 100000,
+    "foerderquote": 0.25,
+    "foerderart": "zuschuss",
+    "beschreibung": "25% Zuschuss für Business Angels bei Investments in innovative Startups. Gilt für Investments bis 400.000€.",
+    "zielgruppe": {
+      "rechtsform": ["Natürliche Person"],
+      "branchen": ["alle"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Finanzierung", "Startup", "Business Angel"],
+    "url_offiziell": "https://www.bmwk.de/invest",
+    "status": "active"
+  },
+  {
+    "id": "erp-gruenderkredit-startgeld",
+    "name": "ERP-Gründerkredit StartGeld",
+    "anbieter": "KfW",
+    "ebene": "bund",
+    "foerderhoehe_max": 125000,
+    "foerderart": "kredit",
+    "beschreibung": "Zinsgünstiger Kredit für Existenzgründer und junge Unternehmen bis 5 Jahre nach Gründung. 80% Haftungsfreistellung für die Hausbank.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "UG", "Einzelunternehmen", "Freiberufler"],
+      "mitarbeiter_max": 50,
+      "branchen": ["alle"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Existenzgründung", "Investition", "Betriebsmittel"],
+    "url_offiziell": "https://www.kfw.de/067",
+    "status": "active"
+  },
+  {
+    "id": "erp-gruenderkredit-universell",
+    "name": "ERP-Gründerkredit Universell",
+    "anbieter": "KfW",
+    "ebene": "bund",
+    "foerderhoehe_max": 25000000,
+    "foerderart": "kredit",
+    "beschreibung": "Kredite für größere Gründungs- und Wachstumsvorhaben. Für Investitionen und Betriebsmittel junger Unternehmen.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG"],
+      "mitarbeiter_max": 250,
+      "branchen": ["alle"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Existenzgründung", "Wachstum", "Investition"],
+    "url_offiziell": "https://www.kfw.de/073",
+    "status": "active"
+  },
+  {
+    "id": "erp-digitalisierungskredit",
+    "name": "ERP-Digitalisierungs- und Innovationskredit",
+    "anbieter": "KfW",
+    "ebene": "bund",
+    "foerderhoehe_max": 25000000,
+    "foerderart": "kredit",
+    "beschreibung": "Zinsgünstiger Kredit für Digitalisierungs- und Innovationsvorhaben. Für Investitionen in digitale Infrastruktur und Innovation.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG"],
+      "mitarbeiter_max": 500,
+      "branchen": ["alle"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Digitalisierung", "Innovation", "Investition"],
+    "url_offiziell": "https://www.kfw.de/380",
+    "status": "active"
+  },
+  {
+    "id": "kfw-unternehmerkredit",
+    "name": "KfW-Unternehmerkredit",
+    "anbieter": "KfW",
+    "ebene": "bund",
+    "foerderhoehe_max": 25000000,
+    "foerderart": "kredit",
+    "beschreibung": "Zinsgünstige Kredite für etablierte Unternehmen zur Finanzierung von Investitionen und Betriebsmitteln.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG", "Einzelunternehmen"],
+      "branchen": ["alle"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Investition", "Betriebsmittel", "Wachstum"],
+    "url_offiziell": "https://www.kfw.de/037",
+    "status": "active"
+  },
+  {
+    "id": "kfw-erneuerbare-standard",
+    "name": "Erneuerbare Energien Standard",
+    "anbieter": "KfW",
+    "ebene": "bund",
+    "foerderhoehe_max": 150000000,
+    "foerderart": "kredit",
+    "beschreibung": "Kredit für Investitionen in Photovoltaik, Windkraft, Biogas und andere erneuerbare Energien.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG", "Einzelunternehmen"],
+      "branchen": ["Energie"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Erneuerbare Energien", "Investition", "Klimaschutz"],
+    "url_offiziell": "https://www.kfw.de/270",
+    "status": "active"
+  },
+  {
+    "id": "beg-wohngebaeude",
+    "name": "Bundesförderung effiziente Gebäude - Wohngebäude",
+    "anbieter": "BAFA",
+    "ebene": "bund",
+    "foerderhoehe_max": 150000,
+    "foerderquote": 0.45,
+    "foerderart": "zuschuss",
+    "beschreibung": "Zuschuss für energetische Sanierung von Wohngebäuden. Fördert Dämmung, Fenster, Heizung und erneuerbare Energien.",
+    "zielgruppe": {
+      "rechtsform": ["Natürliche Person", "GmbH", "Wohnungseigentümergemeinschaft"],
+      "branchen": ["Immobilien"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Energieeffizienz", "Sanierung", "Klimaschutz"],
+    "url_offiziell": "https://www.bafa.de/beg",
+    "status": "active"
+  },
+  {
+    "id": "beg-nichtwohngebaeude",
+    "name": "Bundesförderung effiziente Gebäude - Nichtwohngebäude",
+    "anbieter": "BAFA",
+    "ebene": "bund",
+    "foerderhoehe_max": 500000,
+    "foerderquote": 0.45,
+    "foerderart": "zuschuss",
+    "beschreibung": "Zuschuss für energetische Sanierung von Gewerbeimmobilien und öffentlichen Gebäuden.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "Körperschaft"],
+      "branchen": ["alle"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Energieeffizienz", "Sanierung", "Gewerbeimmobilien"],
+    "url_offiziell": "https://www.bafa.de/beg",
+    "status": "active"
+  },
+  {
+    "id": "energieberatung-mittelstand",
+    "name": "Energieberatung für den Mittelstand",
+    "anbieter": "BAFA",
+    "ebene": "bund",
+    "foerderhoehe_max": 6000,
+    "foerderquote": 0.8,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung von Energieberatungen für KMU. Unterstützt Energieaudits und Maßnahmenempfehlungen.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG", "Einzelunternehmen"],
+      "mitarbeiter_max": 250,
+      "branchen": ["alle"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Energieeffizienz", "Beratung"],
+    "url_offiziell": "https://www.bafa.de/energieberatung",
+    "status": "active"
+  },
+  {
+    "id": "unternehmensberatung",
+    "name": "Förderung unternehmerischen Know-hows",
+    "anbieter": "BAFA",
+    "ebene": "bund",
+    "foerderhoehe_max": 4000,
+    "foerderquote": 0.8,
+    "foerderart": "zuschuss",
+    "beschreibung": "Unternehmensberatung für Existenzgründer und KMU. Fördert allgemeine Beratungen zu wirtschaftlichen, finanziellen und organisatorischen Fragen.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "UG", "Einzelunternehmen", "Freiberufler"],
+      "branchen": ["alle"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Beratung", "Existenzgründung"],
+    "url_offiziell": "https://www.bafa.de/unternehmensberatung",
+    "status": "active"
+  },
+  {
+    "id": "innovationsgutschein-sachsen",
+    "name": "Innovationsgutschein Sachsen",
+    "anbieter": "SAB",
+    "ebene": "land",
+    "foerderhoehe_min": 5000,
+    "foerderhoehe_max": 15000,
+    "foerderquote": 0.8,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung von Innovationsvorhaben sächsischer KMU. Unterstützt externe FuE-Leistungen und Machbarkeitsstudien.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "UG", "AG", "Einzelunternehmen"],
+      "mitarbeiter_max": 250,
+      "branchen": ["alle"],
+      "regionen": ["Sachsen"]
+    },
+    "foerdergegenstand": ["Innovation", "Forschung & Entwicklung"],
+    "url_offiziell": "https://www.sab.sachsen.de/innovationsgutschein",
+    "status": "active"
+  },
+  {
+    "id": "technologiefoerderung-sachsen",
+    "name": "Technologieförderung Sachsen - Einzelprojekte",
+    "anbieter": "SAB",
+    "ebene": "land",
+    "foerderhoehe_max": 1000000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung industrieller Forschung und experimenteller Entwicklung für sächsische Unternehmen.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG"],
+      "mitarbeiter_max": 250,
+      "branchen": ["Produktion", "IT", "Technologie"],
+      "regionen": ["Sachsen"]
+    },
+    "foerdergegenstand": ["Innovation", "Technologie", "Forschung & Entwicklung"],
+    "url_offiziell": "https://www.sab.sachsen.de/technologiefoerderung",
+    "status": "active"
+  },
+  {
+    "id": "grw-sachsen",
+    "name": "GRW - Gewerbliche Wirtschaft Sachsen",
+    "anbieter": "SAB",
+    "ebene": "land",
+    "foerderhoehe_max": 2000000,
+    "foerderquote": 0.35,
+    "foerderart": "zuschuss",
+    "beschreibung": "Investitionszuschüsse für gewerbliche Investitionen in Sachsen. Fördert Betriebserweiterungen und Neuansiedlungen.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG"],
+      "branchen": ["Produktion", "Dienstleistung"],
+      "regionen": ["Sachsen"]
+    },
+    "foerdergegenstand": ["Investition", "Arbeitsplätze", "Regionalentwicklung"],
+    "url_offiziell": "https://www.sab.sachsen.de/grw",
+    "status": "active"
+  },
+  {
+    "id": "mittelstandsrichtlinie-sachsen-beratung",
+    "name": "Mittelstandsrichtlinie Sachsen - Beratung",
+    "anbieter": "SAB",
+    "ebene": "land",
+    "foerderhoehe_max": 20000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Beratungsförderung für sächsische KMU in strategischen, organisatorischen und technischen Fragen.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "UG", "Einzelunternehmen"],
+      "mitarbeiter_max": 250,
+      "branchen": ["alle"],
+      "regionen": ["Sachsen"]
+    },
+    "foerdergegenstand": ["Beratung", "Strategie"],
+    "url_offiziell": "https://www.sab.sachsen.de/mittelstandsrichtlinie",
+    "status": "active"
+  },
+  {
+    "id": "sachsen-kredit",
+    "name": "Sachsen-Kredit",
+    "anbieter": "SAB",
+    "ebene": "land",
+    "foerderhoehe_max": 2000000,
+    "foerderart": "kredit",
+    "beschreibung": "Zinsgünstiger Kredit für Investitionen und Betriebsmittel sächsischer Unternehmen.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG", "Einzelunternehmen"],
+      "branchen": ["alle"],
+      "regionen": ["Sachsen"]
+    },
+    "foerdergegenstand": ["Investition", "Betriebsmittel"],
+    "url_offiziell": "https://www.sab.sachsen.de/sachsenkredit",
+    "status": "active"
+  },
+  {
+    "id": "mikrokredit-sachsen",
+    "name": "Mikrokredit Sachsen",
+    "anbieter": "SAB",
+    "ebene": "land",
+    "foerderhoehe_max": 20000,
+    "foerderart": "kredit",
+    "beschreibung": "Kleinkredite für Existenzgründer und Kleinstunternehmen in Sachsen.",
+    "zielgruppe": {
+      "rechtsform": ["Einzelunternehmen", "GmbH", "UG"],
+      "mitarbeiter_max": 10,
+      "branchen": ["alle"],
+      "regionen": ["Sachsen"]
+    },
+    "foerdergegenstand": ["Existenzgründung", "Kleinunternehmen"],
+    "url_offiziell": "https://www.sab.sachsen.de/mikrokredit",
+    "status": "active"
+  },
+  {
+    "id": "innovationsgutschein-bayern",
+    "name": "Innovationsgutschein Bayern",
+    "anbieter": "Bayern Innovativ",
+    "ebene": "land",
+    "foerderhoehe_max": 15000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung innovativer Projekte bayerischer KMU. Unterstützt FuE-Dienstleistungen und Technologietransfer.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "UG", "AG", "Einzelunternehmen"],
+      "mitarbeiter_max": 50,
+      "branchen": ["alle"],
+      "regionen": ["Bayern"]
+    },
+    "foerdergegenstand": ["Innovation", "Technologietransfer"],
+    "url_offiziell": "https://www.stmwi.bayern.de/innovationsgutscheine",
+    "status": "active"
+  },
+  {
+    "id": "lfa-innovationskredit-bayern",
+    "name": "LfA Innovationskredit Bayern",
+    "anbieter": "LfA Förderbank Bayern",
+    "ebene": "land",
+    "foerderhoehe_max": 5000000,
+    "foerderart": "kredit",
+    "beschreibung": "Zinsgünstiger Kredit für innovative Vorhaben bayerischer Unternehmen.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG"],
+      "branchen": ["alle"],
+      "regionen": ["Bayern"]
+    },
+    "foerdergegenstand": ["Innovation", "Investition"],
+    "url_offiziell": "https://www.lfa.de",
+    "status": "active"
+  },
+  {
+    "id": "nrw-bank-innovationskredit",
+    "name": "NRW.BANK Innovationskredit",
+    "anbieter": "NRW.BANK",
+    "ebene": "land",
+    "foerderhoehe_max": 5000000,
+    "foerderart": "kredit",
+    "beschreibung": "Kredite für Forschungs- und Entwicklungsvorhaben in Nordrhein-Westfalen.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG"],
+      "branchen": ["alle"],
+      "regionen": ["Nordrhein-Westfalen"]
+    },
+    "foerdergegenstand": ["Innovation", "Forschung & Entwicklung"],
+    "url_offiziell": "https://www.nrwbank.de",
+    "status": "active"
+  },
+  {
+    "id": "nrw-mittelstandsfoerderung",
+    "name": "NRW Mittelstandsförderung - Beratung",
+    "anbieter": "MWIDE NRW",
+    "ebene": "land",
+    "foerderhoehe_max": 15000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Beratungsförderung für KMU in Nordrhein-Westfalen.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "UG", "Einzelunternehmen"],
+      "mitarbeiter_max": 250,
+      "branchen": ["alle"],
+      "regionen": ["Nordrhein-Westfalen"]
+    },
+    "foerdergegenstand": ["Beratung"],
+    "url_offiziell": "https://www.wirtschaft.nrw",
+    "status": "active"
+  },
+  {
+    "id": "digitalbonushessen",
+    "name": "Digitalbonus Hessen",
+    "anbieter": "HMWEVW Hessen",
+    "ebene": "land",
+    "foerderhoehe_max": 20000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung der Digitalisierung hessischer KMU. Hardware, Software und IT-Sicherheit.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "UG", "Einzelunternehmen"],
+      "mitarbeiter_max": 50,
+      "branchen": ["alle"],
+      "regionen": ["Hessen"]
+    },
+    "foerdergegenstand": ["Digitalisierung", "IT-Sicherheit"],
+    "url_offiziell": "https://www.digitalbonus-hessen.de",
+    "status": "active"
+  },
+  {
+    "id": "digitalbonusbayern",
+    "name": "Digitalbonus Bayern",
+    "anbieter": "StMWi Bayern",
+    "ebene": "land",
+    "foerderhoehe_max": 50000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung der Digitalisierung bayerischer KMU. Standard-Digitalbonus für Investitionen in digitale Technologien.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "UG", "Einzelunternehmen"],
+      "mitarbeiter_max": 250,
+      "branchen": ["alle"],
+      "regionen": ["Bayern"]
+    },
+    "foerdergegenstand": ["Digitalisierung"],
+    "url_offiziell": "https://www.digitalbonus.bayern",
+    "status": "active"
+  },
+  {
+    "id": "digitalbonusbayern-plus",
+    "name": "Digitalbonus Bayern Plus",
+    "anbieter": "StMWi Bayern",
+    "ebene": "land",
+    "foerderhoehe_max": 100000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Erhöhter Digitalbonus für komplexe Digitalisierungsprojekte bayerischer KMU.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "UG", "AG"],
+      "mitarbeiter_max": 250,
+      "branchen": ["alle"],
+      "regionen": ["Bayern"]
+    },
+    "foerdergegenstand": ["Digitalisierung", "Innovation"],
+    "url_offiziell": "https://www.digitalbonus.bayern",
+    "status": "active"
+  },
+  {
+    "id": "ibbbwachstumsfonds",
+    "name": "IBB Wachstumsfonds Berlin",
+    "anbieter": "IBB Berlin",
+    "ebene": "land",
+    "foerderhoehe_max": 3000000,
+    "foerderart": "beteiligung",
+    "beschreibung": "Beteiligungskapital für wachstumsstarke Berliner Startups und Scale-ups.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "UG"],
+      "branchen": ["Technologie", "IT", "Life Sciences"],
+      "regionen": ["Berlin"]
+    },
+    "foerdergegenstand": ["Wachstum", "Startup", "Finanzierung"],
+    "url_offiziell": "https://www.ibb.de",
+    "status": "active"
+  },
+  {
+    "id": "profibet",
+    "name": "ProFIT Brandenburg",
+    "anbieter": "ILB Brandenburg",
+    "ebene": "land",
+    "foerderhoehe_max": 1500000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung von Forschung und Innovation in Brandenburg.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG"],
+      "branchen": ["alle"],
+      "regionen": ["Brandenburg"]
+    },
+    "foerdergegenstand": ["Innovation", "Forschung & Entwicklung"],
+    "url_offiziell": "https://www.ilb.de/profit",
+    "status": "active"
+  },
+  {
+    "id": "badenwuerttemberg-innovationsgutschein-a",
+    "name": "Innovationsgutschein A Baden-Württemberg",
+    "anbieter": "WM Baden-Württemberg",
+    "ebene": "land",
+    "foerderhoehe_max": 2500,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Kleiner Innovationsgutschein für wissenschaftliche Recherchen und Machbarkeitsstudien.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "UG", "Einzelunternehmen"],
+      "mitarbeiter_max": 100,
+      "branchen": ["alle"],
+      "regionen": ["Baden-Württemberg"]
+    },
+    "foerdergegenstand": ["Innovation", "Machbarkeitsstudie"],
+    "url_offiziell": "https://www.wm.baden-wuerttemberg.de/innovationsgutschein",
+    "status": "active"
+  },
+  {
+    "id": "badenwuerttemberg-innovationsgutschein-b",
+    "name": "Innovationsgutschein B Baden-Württemberg",
+    "anbieter": "WM Baden-Württemberg",
+    "ebene": "land",
+    "foerderhoehe_max": 5000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Mittlerer Innovationsgutschein für umsetzungsorientierte FuE-Leistungen.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "UG", "Einzelunternehmen"],
+      "mitarbeiter_max": 100,
+      "branchen": ["alle"],
+      "regionen": ["Baden-Württemberg"]
+    },
+    "foerdergegenstand": ["Innovation", "Forschung & Entwicklung"],
+    "url_offiziell": "https://www.wm.baden-wuerttemberg.de/innovationsgutschein",
+    "status": "active"
+  },
+  {
+    "id": "badenwuerttemberg-innovationsgutschein-hightech",
+    "name": "Innovationsgutschein Hightech Baden-Württemberg",
+    "anbieter": "WM Baden-Württemberg",
+    "ebene": "land",
+    "foerderhoehe_max": 20000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Hightech-Innovationsgutschein für Projekte mit Digitalisierung, KI oder Industrie 4.0 Bezug.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "UG", "AG"],
+      "mitarbeiter_max": 100,
+      "branchen": ["Technologie", "IT"],
+      "regionen": ["Baden-Württemberg"]
+    },
+    "foerdergegenstand": ["Innovation", "Digitalisierung", "KI"],
+    "url_offiziell": "https://www.wm.baden-wuerttemberg.de/innovationsgutschein",
+    "status": "active"
+  },
+  {
+    "id": "horizon-eic-accelerator",
+    "name": "EIC Accelerator",
+    "anbieter": "EU",
+    "ebene": "eu",
+    "foerderhoehe_max": 2500000,
+    "foerderquote": 0.7,
+    "foerderart": "zuschuss",
+    "beschreibung": "EU-Förderung für innovative Startups und Scale-ups mit bahnbrechenden Technologien.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG"],
+      "mitarbeiter_max": 500,
+      "branchen": ["Technologie", "Life Sciences", "CleanTech"],
+      "regionen": ["EU"]
+    },
+    "foerdergegenstand": ["Innovation", "Skalierung", "Disruption"],
+    "url_offiziell": "https://eic.ec.europa.eu/accelerator",
+    "status": "active"
+  },
+  {
+    "id": "horizon-eic-pathfinder",
+    "name": "EIC Pathfinder",
+    "anbieter": "EU",
+    "ebene": "eu",
+    "foerderhoehe_max": 4000000,
+    "foerderquote": 1.0,
+    "foerderart": "zuschuss",
+    "beschreibung": "EU-Förderung für visionäre Forschungsprojekte mit bahnbrechendem Potenzial.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "Forschungseinrichtung"],
+      "branchen": ["Forschung", "Technologie"],
+      "regionen": ["EU"]
+    },
+    "foerdergegenstand": ["Forschung", "Grundlagenforschung", "Innovation"],
+    "url_offiziell": "https://eic.ec.europa.eu/pathfinder",
+    "status": "active"
+  },
+  {
+    "id": "horizon-eic-transition",
+    "name": "EIC Transition",
+    "anbieter": "EU",
+    "ebene": "eu",
+    "foerderhoehe_max": 2500000,
+    "foerderquote": 1.0,
+    "foerderart": "zuschuss",
+    "beschreibung": "EU-Förderung für die Überführung von Forschungsergebnissen in marktfähige Innovationen.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "Forschungseinrichtung"],
+      "branchen": ["alle"],
+      "regionen": ["EU"]
+    },
+    "foerdergegenstand": ["Technologietransfer", "Kommerzialisierung"],
+    "url_offiziell": "https://eic.ec.europa.eu/transition",
+    "status": "active"
+  },
+  {
+    "id": "efre-sachsen",
+    "name": "EFRE Sachsen 2021-2027",
+    "anbieter": "SAB",
+    "ebene": "eu",
+    "foerderhoehe_max": 5000000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "EU-Strukturfondsmittel für sächsische Unternehmen. Fördert Innovation, Digitalisierung und Klimaschutz.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG"],
+      "branchen": ["alle"],
+      "regionen": ["Sachsen"]
+    },
+    "foerdergegenstand": ["Innovation", "Digitalisierung", "Klimaschutz"],
+    "url_offiziell": "https://www.strukturfonds.sachsen.de",
+    "status": "active"
+  },
+  {
+    "id": "ffg-basisprogramm",
+    "name": "FFG Basisprogramm (Österreich)",
+    "anbieter": "FFG",
+    "ebene": "bund",
+    "foerderhoehe_max": 1000000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Österreichische Basisförderung für Forschung und Entwicklung. Offen für alle Branchen und Unternehmensgrößen.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "Einzelunternehmen"],
+      "branchen": ["alle"],
+      "regionen": ["Österreich"]
+    },
+    "foerdergegenstand": ["Forschung & Entwicklung", "Innovation"],
+    "url_offiziell": "https://www.ffg.at/basisprogramm",
+    "status": "active"
+  },
+  {
+    "id": "aws-erp-kredit",
+    "name": "AWS ERP-Kredit (Österreich)",
+    "anbieter": "AWS",
+    "ebene": "bund",
+    "foerderhoehe_max": 25000000,
+    "foerderart": "kredit",
+    "beschreibung": "Zinsgünstige Kredite für österreichische Unternehmen zur Investitionsfinanzierung.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG"],
+      "branchen": ["alle"],
+      "regionen": ["Österreich"]
+    },
+    "foerdergegenstand": ["Investition", "Wachstum"],
+    "url_offiziell": "https://www.aws.at",
+    "status": "active"
+  },
+  {
+    "id": "innosuisse-innovation",
+    "name": "Innosuisse Innovationsprojekte (Schweiz)",
+    "anbieter": "Innosuisse",
+    "ebene": "bund",
+    "foerderhoehe_max": 500000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Schweizer Förderung für Innovationsprojekte in Kooperation mit Hochschulen.",
+    "zielgruppe": {
+      "rechtsform": ["AG", "GmbH", "Einzelfirma"],
+      "branchen": ["alle"],
+      "regionen": ["Schweiz"]
+    },
+    "foerdergegenstand": ["Innovation", "Kooperation", "Technologietransfer"],
+    "url_offiziell": "https://www.innosuisse.ch",
+    "status": "active"
+  },
+  {
+    "id": "elektromobilitaet-bafa",
+    "name": "Umweltbonus / Elektromobilität",
+    "anbieter": "BAFA",
+    "ebene": "bund",
+    "foerderhoehe_max": 4500,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung für den Kauf von Elektrofahrzeugen. Zuschuss für reine Elektroautos und Plug-in-Hybride.",
+    "zielgruppe": {
+      "rechtsform": ["Natürliche Person", "GmbH", "AG"],
+      "branchen": ["alle"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Elektromobilität", "Klimaschutz"],
+    "url_offiziell": "https://www.bafa.de/emobilitaet",
+    "status": "active"
+  },
+  {
+    "id": "ladeinfrastruktur-gewerbe",
+    "name": "Ladeinfrastruktur für Gewerbe",
+    "anbieter": "KfW",
+    "ebene": "bund",
+    "foerderhoehe_max": 45000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung von Ladestationen für Elektrofahrzeuge auf Unternehmensgeländen.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG"],
+      "branchen": ["alle"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Elektromobilität", "Infrastruktur", "Klimaschutz"],
+    "url_offiziell": "https://www.kfw.de/441",
+    "status": "active"
+  },
+  {
+    "id": "handwerk-digitalisierung",
+    "name": "Handwerk Digital - Beratungsförderung",
+    "anbieter": "ZDH",
+    "ebene": "bund",
+    "foerderhoehe_max": 12000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Spezielle Digitalisierungsberatung für Handwerksbetriebe.",
+    "zielgruppe": {
+      "rechtsform": ["Einzelunternehmen", "GmbH", "UG"],
+      "mitarbeiter_max": 50,
+      "branchen": ["Handwerk"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Digitalisierung", "Handwerk", "Beratung"],
+    "url_offiziell": "https://www.zdh.de",
+    "status": "active"
+  },
+  {
+    "id": "ausbildung-azubi",
+    "name": "Ausbildungsprämie",
+    "anbieter": "BMAS",
+    "ebene": "bund",
+    "foerderhoehe_max": 6000,
+    "foerderart": "zuschuss",
+    "beschreibung": "Prämie für Unternehmen, die ihr Ausbildungsplatzangebot erhalten oder erhöhen.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "Einzelunternehmen"],
+      "mitarbeiter_max": 250,
+      "branchen": ["alle"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Ausbildung", "Personal"],
+    "url_offiziell": "https://www.arbeitsagentur.de",
+    "status": "active"
+  },
+  {
+    "id": "weiterbildung-qualifizierung",
+    "name": "Qualifizierungsförderung",
+    "anbieter": "Bundesagentur für Arbeit",
+    "ebene": "bund",
+    "foerderhoehe_max": 100000,
+    "foerderquote": 0.75,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung beruflicher Weiterbildung für Beschäftigte. Übernahme von Lehrgangskosten.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "Einzelunternehmen"],
+      "branchen": ["alle"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Weiterbildung", "Personal", "Qualifizierung"],
+    "url_offiziell": "https://www.arbeitsagentur.de/qualifizierung",
+    "status": "active"
+  },
+  {
+    "id": "klimaschutzoffensive-kfw",
+    "name": "Klimaschutzoffensive für Unternehmen",
+    "anbieter": "KfW",
+    "ebene": "bund",
+    "foerderhoehe_max": 25000000,
+    "foerderart": "kredit",
+    "beschreibung": "Zinsgünstige Kredite für Klimaschutzmaßnahmen in Unternehmen. EU-Taxonomie-konforme Investitionen.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG"],
+      "branchen": ["alle"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Klimaschutz", "Nachhaltigkeit", "Investition"],
+    "url_offiziell": "https://www.kfw.de/293",
+    "status": "active"
+  },
+  {
+    "id": "gruenderwettbewerb",
+    "name": "Gründerwettbewerb Digitale Innovationen",
+    "anbieter": "BMWK",
+    "ebene": "bund",
+    "foerderhoehe_max": 32000,
+    "foerderart": "zuschuss",
+    "beschreibung": "Preisgeld für innovative digitale Geschäftsideen. Zusätzlich Coaching und Netzwerk.",
+    "zielgruppe": {
+      "rechtsform": ["Natürliche Person", "GmbH i.G."],
+      "branchen": ["IT", "Technologie"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Existenzgründung", "Digitalisierung", "Innovation"],
+    "url_offiziell": "https://www.de-hub.de/gruenderwettbewerb",
+    "status": "active"
+  },
+  {
+    "id": "forschungszulage",
+    "name": "Forschungszulage",
+    "anbieter": "BMBF",
+    "ebene": "bund",
+    "foerderhoehe_max": 1000000,
+    "foerderquote": 0.25,
+    "foerderart": "zuschuss",
+    "beschreibung": "Steuerliche Förderung von FuE-Aktivitäten. 25% der förderfähigen Aufwendungen als Steuergutschrift.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG", "Einzelunternehmen"],
+      "branchen": ["alle"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Forschung & Entwicklung", "Steuervorteil"],
+    "url_offiziell": "https://www.forschungszulage.de",
+    "status": "active"
+  },
+  {
+    "id": "kfw-umweltprogramm",
+    "name": "KfW Umweltprogramm",
+    "anbieter": "KfW",
+    "ebene": "bund",
+    "foerderhoehe_max": 25000000,
+    "foerderart": "kredit",
+    "beschreibung": "Zinsgünstiger Kredit für Umweltschutzmaßnahmen. Energieeffizienz, Ressourcenschonung, Emissionsminderung.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG"],
+      "branchen": ["alle"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Umweltschutz", "Energieeffizienz", "Investition"],
+    "url_offiziell": "https://www.kfw.de/240",
+    "status": "active"
+  },
+  {
+    "id": "circular-economy-foerderung",
+    "name": "Circular Economy Förderung",
+    "anbieter": "BMUV",
+    "ebene": "bund",
+    "foerderhoehe_max": 2000000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung von Projekten zur Kreislaufwirtschaft. Recycling, Ressourceneffizienz, Abfallvermeidung.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG"],
+      "branchen": ["Produktion", "Recycling"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Kreislaufwirtschaft", "Nachhaltigkeit", "Innovation"],
+    "url_offiziell": "https://www.bmuv.de",
+    "status": "active"
+  },
+  {
+    "id": "exportinitiative-energie",
+    "name": "Exportinitiative Energie",
+    "anbieter": "BMWK",
+    "ebene": "bund",
+    "foerderhoehe_max": 50000,
+    "foerderquote": 0.8,
+    "foerderart": "zuschuss",
+    "beschreibung": "Unterstützung für Unternehmen der Energiebranche bei der Erschließung von Auslandsmärkten.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG"],
+      "branchen": ["Energie", "CleanTech"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Export", "Internationalisierung", "Energie"],
+    "url_offiziell": "https://www.german-energy-solutions.de",
+    "status": "active"
+  },
+  {
+    "id": "markterschliessung-international",
+    "name": "Markterschließungsprogramm",
+    "anbieter": "BMWK",
+    "ebene": "bund",
+    "foerderhoehe_max": 80000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung für KMU bei der Erschließung neuer Auslandsmärkte. Messebeteiligungen und Marktstudien.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG"],
+      "mitarbeiter_max": 250,
+      "branchen": ["alle"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Export", "Internationalisierung", "Messe"],
+    "url_offiziell": "https://www.ixpos.de",
+    "status": "active"
+  },
+  {
+    "id": "ki-innovation-bmbf",
+    "name": "KI-Innovation - BMBF",
+    "anbieter": "BMBF",
+    "ebene": "bund",
+    "foerderhoehe_max": 5000000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung von Forschungsprojekten zu Künstlicher Intelligenz.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "Forschungseinrichtung"],
+      "branchen": ["IT", "Technologie"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["KI", "Forschung & Entwicklung", "Innovation"],
+    "url_offiziell": "https://www.bmbf.de/ki",
+    "status": "active"
+  },
+  {
+    "id": "quantentechnologie-foerderung",
+    "name": "Quantentechnologie-Förderung",
+    "anbieter": "BMBF",
+    "ebene": "bund",
+    "foerderhoehe_max": 10000000,
+    "foerderquote": 0.6,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung von Forschung und Entwicklung im Bereich Quantencomputing und Quantenkommunikation.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "Forschungseinrichtung"],
+      "branchen": ["Technologie", "IT"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Quantentechnologie", "Forschung & Entwicklung"],
+    "url_offiziell": "https://www.quantentechnologien.de",
+    "status": "active"
+  },
+  {
+    "id": "wasserstoff-foerderung",
+    "name": "Wasserstoff-Förderung H2Global",
+    "anbieter": "BMWK",
+    "ebene": "bund",
+    "foerderhoehe_max": 50000000,
+    "foerderquote": 0.4,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung von Projekten zur Erzeugung und Nutzung von grünem Wasserstoff.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "Konsortium"],
+      "branchen": ["Energie", "Industrie"],
+      "regionen": ["bundesweit"]
+    },
+    "foerdergegenstand": ["Wasserstoff", "Klimaschutz", "Energie"],
+    "url_offiziell": "https://www.h2global-stiftung.com",
+    "status": "active"
+  },
+  {
+    "id": "mecklenburg-vorpommern-innovation",
+    "name": "Innovationsförderung Mecklenburg-Vorpommern",
+    "anbieter": "LFI MV",
+    "ebene": "land",
+    "foerderhoehe_max": 500000,
+    "foerderquote": 0.45,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung von FuE-Projekten in Mecklenburg-Vorpommern.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG"],
+      "mitarbeiter_max": 250,
+      "branchen": ["alle"],
+      "regionen": ["Mecklenburg-Vorpommern"]
+    },
+    "foerdergegenstand": ["Innovation", "Forschung & Entwicklung"],
+    "url_offiziell": "https://www.lfi-mv.de",
+    "status": "active"
+  },
+  {
+    "id": "niedersachsen-innovationsfoerderung",
+    "name": "Niedersachsen Innovation",
+    "anbieter": "NBank",
+    "ebene": "land",
+    "foerderhoehe_max": 1000000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Innovationsförderung für niedersächsische Unternehmen.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG"],
+      "branchen": ["alle"],
+      "regionen": ["Niedersachsen"]
+    },
+    "foerdergegenstand": ["Innovation", "Forschung & Entwicklung"],
+    "url_offiziell": "https://www.nbank.de",
+    "status": "active"
+  },
+  {
+    "id": "schleswig-holstein-digital",
+    "name": "Digitalisierungsprämie Schleswig-Holstein",
+    "anbieter": "IB.SH",
+    "ebene": "land",
+    "foerderhoehe_max": 15000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Digitalisierungsförderung für KMU in Schleswig-Holstein.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "UG", "Einzelunternehmen"],
+      "mitarbeiter_max": 50,
+      "branchen": ["alle"],
+      "regionen": ["Schleswig-Holstein"]
+    },
+    "foerdergegenstand": ["Digitalisierung"],
+    "url_offiziell": "https://www.ib-sh.de",
+    "status": "active"
+  },
+  {
+    "id": "hamburg-innovation",
+    "name": "Hamburg Innovation GmbH Förderung",
+    "anbieter": "Hamburg Innovation",
+    "ebene": "land",
+    "foerderhoehe_max": 200000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung von Innovationen und Technologietransfer in Hamburg.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "UG", "AG"],
+      "branchen": ["alle"],
+      "regionen": ["Hamburg"]
+    },
+    "foerdergegenstand": ["Innovation", "Technologietransfer"],
+    "url_offiziell": "https://www.hamburginnovation.de",
+    "status": "active"
+  },
+  {
+    "id": "bremen-innovation",
+    "name": "Bremen Innovationsförderung",
+    "anbieter": "BAB Bremen",
+    "ebene": "land",
+    "foerderhoehe_max": 300000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Innovationsförderung für Unternehmen im Land Bremen.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG"],
+      "branchen": ["alle"],
+      "regionen": ["Bremen"]
+    },
+    "foerdergegenstand": ["Innovation", "Forschung & Entwicklung"],
+    "url_offiziell": "https://www.bab-bremen.de",
+    "status": "active"
+  },
+  {
+    "id": "saarland-digitalisierung",
+    "name": "Digitalbonus Saarland",
+    "anbieter": "SIKB",
+    "ebene": "land",
+    "foerderhoehe_max": 15000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Digitalisierungsförderung für saarländische KMU.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "UG", "Einzelunternehmen"],
+      "mitarbeiter_max": 100,
+      "branchen": ["alle"],
+      "regionen": ["Saarland"]
+    },
+    "foerdergegenstand": ["Digitalisierung"],
+    "url_offiziell": "https://www.sikb.de",
+    "status": "active"
+  },
+  {
+    "id": "rheinland-pfalz-innovation",
+    "name": "Innovationsförderung Rheinland-Pfalz",
+    "anbieter": "ISB",
+    "ebene": "land",
+    "foerderhoehe_max": 500000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung innovativer Projekte in Rheinland-Pfalz.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG"],
+      "branchen": ["alle"],
+      "regionen": ["Rheinland-Pfalz"]
+    },
+    "foerdergegenstand": ["Innovation", "Forschung & Entwicklung"],
+    "url_offiziell": "https://www.isb.rlp.de",
+    "status": "active"
+  },
+  {
+    "id": "thueringen-innovation",
+    "name": "Thüringen Innovation",
+    "anbieter": "TAB",
+    "ebene": "land",
+    "foerderhoehe_max": 750000,
+    "foerderquote": 0.5,
+    "foerderart": "zuschuss",
+    "beschreibung": "FuE-Förderung für thüringische Unternehmen.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG"],
+      "branchen": ["alle"],
+      "regionen": ["Thüringen"]
+    },
+    "foerdergegenstand": ["Innovation", "Forschung & Entwicklung"],
+    "url_offiziell": "https://www.aufbaubank.de",
+    "status": "active"
+  },
+  {
+    "id": "sachsen-anhalt-innovation",
+    "name": "Innovationsförderung Sachsen-Anhalt",
+    "anbieter": "IB Sachsen-Anhalt",
+    "ebene": "land",
+    "foerderhoehe_max": 600000,
+    "foerderquote": 0.45,
+    "foerderart": "zuschuss",
+    "beschreibung": "Förderung innovativer Projekte in Sachsen-Anhalt.",
+    "zielgruppe": {
+      "rechtsform": ["GmbH", "AG", "GmbH & Co. KG"],
+      "branchen": ["alle"],
+      "regionen": ["Sachsen-Anhalt"]
+    },
+    "foerdergegenstand": ["Innovation", "Forschung & Entwicklung"],
+    "url_offiziell": "https://www.ib-sachsen-anhalt.de",
+    "status": "active"
+  }
+]
